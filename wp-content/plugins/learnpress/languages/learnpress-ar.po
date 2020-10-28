@@ -1,0 +1,2880 @@
+# Translation of Plugins - LearnPress &#8211; WordPress LMS Plugin - Development (trunk) in Arabic
+# This file is distributed under the same license as the Plugins - LearnPress &#8211; WordPress LMS Plugin - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-07-02 08:37+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100 >= 3 "
+"&& n%100<=10 ? 3 : n%100 >= 11 && n%100<=99 ? 4 : 5;\n"
+"X-Generator: Loco https://localise.biz/\n"
+"Language: ar\n"
+"Project-Id-Version: Plugins - LearnPress &#8211; WordPress LMS Plugin - "
+"Development (trunk)\n"
+"\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-02 08:37+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"X-Loco-Version: 2.4.0; wp-5.4.2"
+
+#: inc/libraries/meta-box/inc/fields/media.php:37
+msgctxt "media"
+msgid "or"
+msgstr ""
+
+#: inc/libraries/meta-box/inc/fields/media.php:36
+msgctxt "media"
+msgid "Select Files"
+msgstr ""
+
+#: inc/libraries/meta-box/inc/fields/media.php:33
+msgctxt "media"
+msgid "No Title"
+msgstr ""
+
+#: inc/libraries/meta-box/inc/fields/media.php:32
+msgctxt "media"
+msgid "View"
+msgstr ""
+
+#: inc/libraries/meta-box/inc/fields/media.php:31
+msgctxt "media"
+msgid "Edit"
+msgstr ""
+
+#: inc/libraries/meta-box/inc/fields/media.php:30
+msgctxt "media"
+msgid "Remove"
+msgstr ""
+
+#: inc/libraries/meta-box/inc/fields/media.php:29
+msgctxt "media"
+msgid " files"
+msgstr ""
+
+#: inc/libraries/meta-box/inc/fields/media.php:28
+msgctxt "media"
+msgid " file"
+msgstr ""
+
+#: inc/libraries/meta-box/inc/fields/media.php:27
+msgctxt "media"
+msgid "+ Add Media"
+msgstr ""
+
+#: inc/libraries/meta-box/inc/fields/key-value.php:135
+msgid "Value"
+msgstr ""
+
+#: inc/libraries/meta-box/inc/fields/key-value.php:134
+msgid "Key"
+msgstr ""
+
+#: templates/single-course/content-protected.php:29
+#: templates/content-lesson/block-content.php:17
+msgid "This lesson has been locked"
+msgstr ""
+
+#: inc/libraries/meta-box/inc/fields/media.php:38
+msgctxt "media"
+msgid "Drop files here to upload"
+msgstr ""
+
+#: inc/libraries/meta-box/inc/fields/post.php:35
+msgid "Select a post"
+msgstr ""
+
+#: inc/libraries/meta-box/inc/field.php:398
+msgid "+ Add more"
+msgstr ""
+
+#: inc/libraries/meta-box/inc/fields/user.php:24
+msgid "Select an user"
+msgstr ""
+
+#: inc/libraries/meta-box/inc/fields/taxonomy.php:47
+msgid "Select a term"
+msgstr ""
+
+#: inc/libraries/meta-box/inc/fields/select-advanced.php:47
+msgid "Select an item"
+msgstr ""
+
+#: inc/admin/views/tools/database/html-repair-database.php:12
+msgid "Repair Database"
+msgstr ""
+
+#: inc/widgets/featured-courses/featured-courses.php:57
+#: inc/widgets/popular-courses/popular-courses.php:58
+#: inc/widgets/recent-courses/recent-courses.php:58
+msgid "Show lesson"
+msgstr ""
+
+#: inc/widgets/featured-courses/featured-courses.php:51
+#: inc/widgets/popular-courses/popular-courses.php:52
+#: inc/widgets/recent-courses/recent-courses.php:52
+msgid "Show teacher"
+msgstr ""
+
+#: inc/widgets/course-filters/course-filters.php:30
+#: inc/widgets/course-filters/course-filters.php:40
+msgid "Or"
+msgstr ""
+
+#: inc/widgets/course-filters/course-filters.php:29
+#: inc/widgets/course-filters/course-filters.php:39
+msgid "And"
+msgstr ""
+
+#: inc/admin/views/meta-boxes/order/details.php:72
+msgid "Customers"
+msgstr ""
+
+#: inc/emails/class-lp-email-updated-course.php:39
+msgid "Update course"
+msgstr ""
+
+#: inc/widgets/featured-courses/featured-courses.php:89
+#: inc/widgets/popular-courses/popular-courses.php:90
+#: inc/widgets/recent-courses/recent-courses.php:90
+msgid "Show Price"
+msgstr ""
+
+#: inc/widgets/featured-courses/featured-courses.php:101
+#: inc/widgets/popular-courses/popular-courses.php:102
+#: inc/widgets/recent-courses/recent-courses.php:102
+msgid "Go to Courses"
+msgstr ""
+
+#: inc/widgets/featured-courses/featured-courses.php:63
+#: inc/widgets/popular-courses/popular-courses.php:64
+#: inc/widgets/recent-courses/recent-courses.php:64
+msgid "Show Thumbnail"
+msgstr ""
+
+#: inc/admin/class-lp-admin-menu.php:69
+msgid "View Courses"
+msgstr ""
+
+#: inc/user/class-lp-profile.php:349
+#: inc/admin/settings/class-lp-settings-profile.php:208
+#: inc/admin/settings/class-lp-settings-profile.php:229
+msgid "Avatar"
+msgstr ""
+
+#: templates/profile/tabs/settings/avatar.php:58
+msgid "Upload"
+msgstr ""
+
+#: inc/admin/settings/class-lp-settings-profile.php:200
+msgid "Basic Information"
+msgstr ""
+
+#: inc/admin/views/addons/html-themes.php:39
+msgid "Other"
+msgstr ""
+
+#: inc/admin/views/addons/html-loop-theme.php:53
+#: inc/admin/lp-admin-functions.php:582
+msgid "View Demo"
+msgstr ""
+
+#: inc/admin/sub-menus/class-lp-submenu-addons.php:57
+msgid "Search..."
+msgstr ""
+
+#: inc/admin/views/addons/html-loop-theme.php:30
+msgid "$"
+msgstr ""
+
+#: inc/admin/class-lp-admin.php:632
+msgid "Profile Page"
+msgstr ""
+
+#: inc/user/class-lp-user-factory.php:364
+msgid "Every 3 Minutes"
+msgstr ""
+
+#: inc/admin/views/tools/html-template.php:38
+msgid "File"
+msgstr ""
+
+#: inc/admin/sub-menus/class-lp-submenu-tools.php:21
+msgid "Database"
+msgstr ""
+
+#: inc/admin/views/tools/html-template.php:55
+msgid "Version"
+msgstr ""
+
+#: inc/custom-post-types/course.php:1037
+msgid "Vimeo"
+msgstr ""
+
+#: inc/custom-post-types/course.php:1030
+msgid "Video Type"
+msgstr ""
+
+#: inc/custom-post-types/course.php:1033
+msgid "Chose video type"
+msgstr ""
+
+#: inc/custom-post-types/course.php:1018
+msgid "Course Video"
+msgstr ""
+
+#: inc/custom-post-types/course.php:1036
+msgid "Youtube"
+msgstr ""
+
+#: inc/custom-post-types/course.php:1023
+msgid "Video ID"
+msgstr ""
+
+#: inc/admin/lp-admin-functions.php:333
+msgid "Minutes"
+msgstr ""
+
+#: inc/libraries/meta-box/inc/fields/select.php:92
+msgid "None"
+msgstr ""
+
+#: templates/widgets/featured-courses/default.php:86
+#: templates/widgets/popular-courses/default.php:81
+#: templates/widgets/recent-courses/default.php:86
+msgid "%d lesson"
+msgstr ""
+
+#: templates/widgets/featured-courses/default.php:86
+#: templates/widgets/popular-courses/default.php:81
+#: templates/widgets/recent-courses/default.php:86
+msgid "%d lessons"
+msgstr ""
+
+#: inc/admin/views/statistics/orders.php:55
+msgid "Select a course category"
+msgstr ""
+
+#: inc/admin/views/statistics/orders.php:51
+msgid "Select a course"
+msgstr ""
+
+#: templates/single-course/students.php:29
+msgid "%d students"
+msgstr ""
+
+#: inc/admin/views/statistics/orders.php:48
+msgid "Course Category"
+msgstr ""
+
+#: templates/single-course/students.php:29
+msgid "%d student"
+msgstr ""
+
+#: inc/custom-post-types/question.php:336 inc/custom-post-types/course.php:937
+#: inc/custom-post-types/course.php:949 inc/custom-post-types/course.php:1294
+#: inc/custom-post-types/course.php:1301 inc/custom-post-types/lesson.php:310
+#: inc/custom-post-types/quiz.php:381
+msgid "Author"
+msgstr ""
+
+#: inc/custom-post-types/course.php:875
+msgid "Not set"
+msgstr ""
+
+#: inc/custom-post-types/course.php:616
+msgid "Set course as featured."
+msgstr ""
+
+#: inc/class-lp-shortcodes.php:225
+msgid "Forgot password?"
+msgstr ""
+
+#: inc/custom-post-types/course.php:613
+msgid "Featured"
+msgstr ""
+
+#: inc/class-lp-shortcodes.php:227
+msgid "Create new account"
+msgstr ""
+
+#: inc/admin/views/statistics/orders.php:44
+msgid "Sale by"
+msgstr ""
+
+#: templates/content-archive-course.php:74
+#: inc/abstracts/abstract-shortcode-courses.php:142
+#: inc/admin/views/tools/course/html-course.php:53
+msgid "No course found."
+msgstr ""
+
+#: inc/lp-core-functions.php:831
+msgid "Day(s)"
+msgstr ""
+
+#: templates/profile/tabs/settings/basic-information.php:65
+msgid "Last Name"
+msgstr ""
+
+#: templates/profile/tabs/settings/basic-information.php:57
+msgid "First Name"
+msgstr ""
+
+#: inc/widgets/recent-courses/recent-courses.php:49
+msgid "Recent Courses"
+msgstr ""
+
+#: inc/widgets/popular-courses/popular-courses.php:49
+msgid "Popular Courses"
+msgstr ""
+
+#: templates/widgets/featured-courses/default.php:65
+#: templates/widgets/popular-courses/default.php:60
+#: templates/widgets/recent-courses/default.php:65
+msgid "..."
+msgstr ""
+
+#: templates/search-form.php:29 inc/admin/views/tools/course/html-user.php:21
+#: inc/admin/views/tools/course/html-course.php:21
+msgid "Search"
+msgstr ""
+
+#: inc/widgets/featured-courses/featured-courses.php:48
+msgid "Featured Courses"
+msgstr ""
+
+#: templates/single-course/progress.php:56
+msgid "Course results"
+msgstr ""
+
+#: templates/single-course/section/title.php:52
+#: templates/content-quiz/progress.php:40
+msgid "%d/%d"
+msgstr ""
+
+#: templates/profile/tabs/settings/change-password.php:49
+msgid "New password"
+msgstr ""
+
+#: templates/profile/tabs/settings/change-password.php:43
+msgid "Old password"
+msgstr ""
+
+#: inc/admin/settings/class-lp-settings-profile.php:216
+msgid "Change Password"
+msgstr ""
+
+#: templates/profile/tabs/settings/basic-information.php:81
+msgid "Display name publicly as"
+msgstr ""
+
+#: inc/course/lp-course-functions.php:869 inc/lp-template-functions.php:3269
+msgid "Edit this item"
+msgstr ""
+
+#: inc/lp-core-functions.php:2731
+msgid "Cancel Order"
+msgstr ""
+
+#: inc/order/lp-order-functions.php:793
+msgid "Order number <strong>%s</strong> not found"
+msgstr ""
+
+#: inc/lp-core-functions.php:832
+msgid "Week(s)"
+msgstr ""
+
+#: inc/lp-core-functions.php:830
+msgid "Hour(s)"
+msgstr ""
+
+#: inc/lp-core-functions.php:829
+msgid "Minute(s)"
+msgstr ""
+
+#: inc/lp-core-functions.php:2730
+msgid "Are you sure you want to cancel order?"
+msgstr ""
+
+#. translators: Publish box date format, see http://php.net/date
+#: inc/custom-post-types/abstract.php:771
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: templates/checkout/order-received.php:43 inc/custom-post-types/order.php:853
+msgid "Course does not exist"
+msgstr ""
+
+#: inc/custom-post-types/quiz.php:422
+msgid "This quiz has no questions"
+msgstr ""
+
+#: inc/custom-post-types/order.php:473
+msgid "Order number, user name, user email, course name etc..."
+msgstr ""
+
+#: inc/custom-post-types/abstract.php:773
+msgid "draft updated."
+msgstr ""
+
+#: inc/custom-post-types/abstract.php:766
+msgid "saved."
+msgstr ""
+
+#: inc/custom-post-types/abstract.php:765
+msgid "published."
+msgstr ""
+
+#: inc/custom-post-types/abstract.php:767
+msgid "submitted."
+msgstr ""
+
+#: inc/admin/views/setup/setup-stripe.php:7
+#: inc/widgets/featured-courses/featured-courses.php:45
+#: inc/widgets/course-info/course-info.php:46
+#: inc/widgets/course-attributes/course-attributes.php:11
+#: inc/widgets/popular-courses/popular-courses.php:46
+#: inc/widgets/course-filters/course-filters.php:11
+#: inc/widgets/recent-courses/recent-courses.php:46
+#: inc/widgets/course-progress/course-progress.php:46
+msgid "Title"
+msgstr ""
+
+#: inc/curds/class-lp-user-curd.php:1260 inc/curds/class-lp-user-curd.php:1500
+msgid "course"
+msgstr ""
+
+#: templates/profile/tabs/settings/basic-information.php:73
+msgid "Nickname"
+msgstr ""
+
+#: inc/lp-core-functions.php:2571
+msgid "Cart"
+msgstr ""
+
+#: inc/class-lp-assets.php:61 inc/lp-core-functions.php:2290
+#: inc/lp-core-functions.php:3383
+msgid "OK"
+msgstr ""
+
+#: inc/order/lp-order-functions.php:753
+msgid "Order fulfilled and complete."
+msgstr ""
+
+#: inc/order/lp-order-functions.php:752
+msgid "Payment received and the order is awaiting fulfillment."
+msgstr ""
+
+#: inc/cart/class-lp-cart.php:144
+msgid "Sorry! This course is not purchasable."
+msgstr ""
+
+#: inc/class-lp-checkout.php:564
+msgid "Item \"%s\" is not purchasable."
+msgstr ""
+
+#: templates/emails/plain/order-items-table.php:48
+msgid "Quantity: %s"
+msgstr ""
+
+#: inc/order/class-lp-order.php:982
+msgctxt "full name"
+msgid "%1$s"
+msgstr ""
+
+#: inc/order/lp-order-functions.php:754
+msgid "The order is cancelled by an admin or the customer."
+msgstr ""
+
+#: inc/emails/class-lp-email-user-order-completed.php:27
+msgid "User order completed"
+msgstr ""
+
+#: templates/emails/plain/order-items-table.php:50
+msgid "Cost: %s"
+msgstr ""
+
+#: inc/lp-core-functions.php:1638
+msgid "Please moderate"
+msgstr ""
+
+#: inc/emails/class-lp-email-become-an-instructor.php:31
+msgid "Become an instructor"
+msgstr ""
+
+#: inc/order/lp-order-functions.php:751
+msgid ""
+"Order received in case user buy a course but doesn't finalise the order."
+msgstr ""
+
+#: inc/admin/sub-menus/class-lp-submenu-tools.php:14
+msgid "LearnPress Tools"
+msgstr ""
+
+#: inc/custom-post-types/order.php:915
+msgid "No order found"
+msgstr ""
+
+#: inc/custom-post-types/order.php:916
+msgid "No order found in Trash"
+msgstr ""
+
+#: inc/custom-post-types/order.php:914
+msgid "Search Orders"
+msgstr ""
+
+#: inc/custom-post-types/order.php:913
+msgid "Update Order"
+msgstr ""
+
+#: inc/admin/lp-admin-functions.php:244
+msgid "Create"
+msgstr ""
+
+#: inc/admin/lp-admin-functions.php:248
+msgid "Ok [Enter]"
+msgstr ""
+
+#: inc/admin/lp-admin-functions.php:247
+msgid "New page title"
+msgstr ""
+
+#: inc/admin/views/updates/0.9/update-wizard.php:6
+#: inc/admin/views/updates/0.9/update-wizard.php:19
+msgid "LearnPress update version %s"
+msgstr ""
+
+#: inc/user/class-lp-profile.php:285 inc/lp-deprecated.php:372
+#: inc/custom-post-types/order.php:772
+msgid "Purchased"
+msgstr ""
+
+#: inc/admin/views/updates/0.9/step-welcome.php:3
+msgid ""
+"In version <strong>%s</strong> of LearnPress we have a big update and need "
+"to upgrade your database to ensure system works properly."
+msgstr ""
+
+#: templates/content-quiz/buttons/hint.php:21
+msgid "Hint"
+msgstr ""
+
+#: inc/admin/views/updates/0.9/step-upgraded.php:5
+msgid "Manage courses"
+msgstr ""
+
+#: templates/content-quiz/buttons/check.php:24
+msgid "Check"
+msgstr ""
+
+#: templates/content-quiz/buttons/start.php:27
+msgid "Start"
+msgstr ""
+
+#: templates/content-quiz/progress.php:47 templates/content-quiz/intro.php:25
+#: inc/quiz/class-lp-quiz.php:442
+msgid "Unlimited"
+msgstr ""
+
+#: templates/content-quiz/buttons/complete.php:29
+#: templates/content-lesson/button-complete.php:46
+msgid "Complete"
+msgstr ""
+
+#: inc/quiz/class-lp-quiz.php:500
+msgid "Finish quiz"
+msgstr ""
+
+#: inc/quiz/class-lp-quiz.php:511
+msgid "Congrats! You have finished this quiz"
+msgstr ""
+
+#: inc/updates/_update-from-0.9.php:1206
+msgctxt "Permalink Slug"
+msgid "lesson-tag"
+msgstr ""
+
+#: inc/updates/_update-from-0.9.php:1228
+msgctxt "Permalink Slug"
+msgid "question-tag"
+msgstr ""
+
+#: inc/quiz/class-lp-quiz.php:504
+msgid "Retake quiz"
+msgstr ""
+
+#: inc/quiz/class-lp-quiz.php:512
+msgid ""
+"Congrats! You have re-taken this quiz. Please wait a moment and the page "
+"will reload"
+msgstr ""
+
+#: inc/class-lp-ajax.php:281
+msgid ""
+"Error! You cannot finish this course. Please contact your administrator for "
+"more information."
+msgstr ""
+
+#: inc/admin/views/statistics/courses.php:43
+#: inc/admin/views/statistics/general.php:60
+msgid "Public"
+msgstr ""
+
+#: inc/admin/views/statistics/users.php:9
+#: inc/admin/views/statistics/users.php:46
+#: inc/admin/views/statistics/orders.php:9
+#: inc/admin/views/statistics/courses.php:9
+#: inc/admin/views/statistics/general.php:9
+#: inc/admin/lp-admin-functions.php:857
+msgid "Instructors"
+msgstr ""
+
+#: inc/admin/settings/class-lp-settings-courses.php:99
+msgid "Archive"
+msgstr ""
+
+#: inc/admin/sub-menus/class-lp-submenu-statistics.php:27
+msgid "Users"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "http://thimpress.com/learnpress"
+msgstr ""
+
+#. Author of the plugin
+msgid "ThimPress"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://thimpress.com"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"LearnPress is a WordPress complete solution for creating a Learning "
+"Management System (LMS). It can help you to create courses, lessons and "
+"quizzes."
+msgstr ""
+
+#: inc/admin/class-lp-setup-wizard.php:229
+#: inc/admin/views/setup/steps/finish.php:12
+#: inc/admin/views/setup/content.php:92
+msgid "Finish"
+msgstr ""
+
+#: templates/content-quiz/history.php:83
+msgid "No history found!"
+msgstr ""
+
+#: templates/checkout/form.php:89 templates/checkout/payment.php:132
+#: inc/custom-post-types/course.php:101 inc/custom-post-types/quiz.php:178
+#: inc/admin/views/setup/content.php:75
+#: inc/admin/views/updates/update-screen.php:47
+msgid "Back"
+msgstr ""
+
+#: templates/content-quiz/history.php:54
+msgid "Result"
+msgstr ""
+
+#: templates/content-quiz/history.php:34
+msgid "Other results (newest %d items)"
+msgstr ""
+
+#: inc/course/abstract-course.php:1718
+msgid "Tags: "
+msgstr ""
+
+#: templates/single-course/buttons/enroll.php:32
+msgid "Enroll"
+msgstr ""
+
+#: templates/single-course/buttons/purchase.php:32
+msgid "Buy this course"
+msgstr ""
+
+#: templates/single-course/tabs/curriculum.php:47
+msgid "Curriculum is empty"
+msgstr ""
+
+#: inc/lp-template-functions.php:2665 inc/lp-template-functions.php:3235
+msgid "Final"
+msgstr ""
+
+#: templates/single-course/section/content.php:72
+msgid "No items in this section"
+msgstr ""
+
+#: templates/profile/tabs/orders/list.php:36
+msgid "Action"
+msgstr ""
+
+#: inc/lp-deprecated.php:371
+msgid "Learning"
+msgstr ""
+
+#: templates/profile/tabs/courses.php:21
+msgid "You haven't got any courses yet!"
+msgstr ""
+
+#: inc/user/class-lp-profile.php:847 inc/user/class-lp-profile.php:881
+#: inc/lp-deprecated.php:373 inc/lp-deprecated.php:404
+#: inc/user-item/class-lp-user-item.php:567
+msgid "Finished"
+msgstr ""
+
+#: templates/content-quiz/history.php:53
+msgid "Time"
+msgstr ""
+
+#: templates/order/confirm.php:61
+msgid "Payment Method:"
+msgstr ""
+
+#: templates/order/confirm.php:66
+msgid "Status:"
+msgstr ""
+
+#: templates/order/confirm.php:48
+msgid "Order Number:"
+msgstr ""
+
+#: templates/order/confirm.php:52
+msgid "Date:"
+msgstr ""
+
+#: templates/order/confirm.php:56
+msgid "Total:"
+msgstr ""
+
+#: templates/order/confirm.php:29
+msgid "Please attempt your purchase again or go to your account page."
+msgstr ""
+
+#: templates/order/confirm.php:31
+msgid "Please attempt your purchase again."
+msgstr ""
+
+#: templates/order/confirm.php:25
+msgid ""
+"Unfortunately your order cannot be processed as the originating "
+"bank/merchant has declined your transaction."
+msgstr ""
+
+#: templates/content-lesson/button-complete.php:36 inc/class-lp-gdpr.php:425
+#: inc/user-item/class-lp-user-item.php:566
+#: inc/user-item/class-lp-user-item-quiz.php:107
+#: inc/admin/views/statistics/orders.php:63
+#: inc/admin/lp-admin-functions.php:1224
+msgid "Completed"
+msgstr ""
+
+#: templates/checkout/review-order.php:20
+msgid "Your order"
+msgstr ""
+
+#: templates/checkout/payment.php:20 inc/class-lp-assets.php:71
+#: inc/class-lp-assets.php:78
+#: inc/shortcodes/class-lp-shortcode-become-a-teacher.php:124
+msgid "Processing"
+msgstr ""
+
+#: templates/checkout/payment.php:19 inc/class-lp-assets.php:75
+msgid "Place order"
+msgstr ""
+
+#: templates/emails/plain/order-items-table.php:24
+#: templates/emails/order-items-table.php:41
+#: templates/checkout/order-received.php:29
+msgid "Order Number"
+msgstr ""
+
+#: templates/emails/plain/order-items-table.php:28
+#: templates/emails/order-items-table.php:49
+#: templates/checkout/order-received.php:75 templates/checkout/payment.php:40
+msgid "Payment Method"
+msgstr ""
+
+#: templates/checkout/order-received.php:25 inc/order/class-lp-order.php:187
+#: inc/order/class-lp-order.php:206
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: templates/checkout/order-comment.php:20
+msgid "Additional Information"
+msgstr ""
+
+#: templates/single-course/buttons/continue.php:23
+#: templates/content-quiz/buttons/continue.php:26
+#: inc/admin/views/setup/content.php:86
+msgid "Continue"
+msgstr ""
+
+#: templates/checkout/form-register.php:36
+msgid "New Customer"
+msgstr ""
+
+#: templates/checkout/form-register.php:38
+msgid "Register Account"
+msgstr ""
+
+#: templates/checkout/form-login.php:34
+msgid "Returning customer"
+msgstr ""
+
+#: templates/checkout/form-login.php:102 templates/checkout/form-login.php:112
+#: templates/global/form-login.php:49
+msgid "Login"
+msgstr ""
+
+#: templates/checkout/form-logged-in.php:30
+msgid "Log out &raquo;"
+msgstr ""
+
+#: templates/checkout/form-logged-in.php:30
+msgid "Log out of this account"
+msgstr ""
+
+#: templates/checkout/form-logged-in.php:27
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>."
+msgstr ""
+
+#: templates/checkout/empty-cart.php:19 inc/class-lp-checkout.php:545
+msgid "Your cart is currently empty."
+msgstr ""
+
+#: templates/checkout/review-order.php:130 templates/order/order-details.php:81
+msgid "Subtotal"
+msgstr ""
+
+#: inc/question/class-lp-question-true-or-false.php:58
+msgid "False"
+msgstr ""
+
+#: inc/quiz/class-lp-quiz.php:505
+msgid "Are you sure you want to retake this quiz?"
+msgstr ""
+
+#: inc/custom-post-types/quiz.php:176
+msgid "Option"
+msgstr ""
+
+#: inc/question/class-lp-question.php:313
+msgid "Single Choice"
+msgstr ""
+
+#: inc/question/class-lp-question.php:311
+msgid "True Or False"
+msgstr ""
+
+#: inc/question/class-lp-question.php:312
+msgid "Multi Choice"
+msgstr ""
+
+#: inc/question/class-lp-question-true-or-false.php:52
+msgid "True"
+msgstr ""
+
+#: inc/user/class-lp-profile.php:816 inc/admin/views/statistics/orders.php:64
+#: inc/admin/views/statistics/courses.php:44
+#: inc/admin/views/statistics/general.php:61
+#: inc/admin/lp-admin-functions.php:1027 inc/admin/lp-admin-functions.php:1229
+#: inc/admin/lp-admin-functions.php:2040
+msgid "Pending"
+msgstr ""
+
+#: inc/order/class-lp-order.php:1099
+msgid "Order on"
+msgstr ""
+
+#: inc/lp-webhooks.php:88
+msgid "LearnPress webhook process Complete"
+msgstr ""
+
+#: inc/lp-template-functions.php:1454
+msgctxt "breadcrumb"
+msgid "Home"
+msgstr ""
+
+#: inc/lp-template-functions.php:2401
+msgid "&nbsp;&ndash; Page %s"
+msgstr ""
+
+#: inc/lp-js-template.php:11
+msgid "--Select a Lesson--"
+msgstr ""
+
+#: inc/lp-template-functions.php:2348
+msgid "Access denied \"%s\""
+msgstr ""
+
+#: inc/lp-core-functions.php:1651
+msgid "Email: %s"
+msgstr ""
+
+#: inc/admin/class-lp-setup-wizard.php:221
+#: inc/admin/meta-box/fields/payment-order.php:29
+#: inc/admin/views/setup/steps/payment.php:16
+msgid "Payment"
+msgstr ""
+
+#: inc/lp-core-functions.php:1650
+msgid "Name: %s"
+msgstr ""
+
+#: inc/lp-core-functions.php:1652
+msgid "Phone: %s"
+msgstr ""
+
+#: inc/lp-core-functions.php:1659
+msgid "Accept: %s"
+msgstr ""
+
+#: inc/lp-core-functions.php:1630
+msgid "Please enter your email address"
+msgstr ""
+
+#: inc/lp-core-functions.php:1625
+msgid "Please enter your name"
+msgstr ""
+
+#: inc/lp-core-functions.php:980
+msgid "Right with space"
+msgstr ""
+
+#: inc/lp-core-functions.php:979
+msgid "Left with space"
+msgstr ""
+
+#: inc/lp-core-functions.php:978
+msgid "Right"
+msgstr ""
+
+#: inc/lp-core-functions.php:977
+msgid "Left"
+msgstr ""
+
+#: inc/admin/lp-admin-actions.php:66
+msgid "Trash"
+msgstr ""
+
+#: inc/admin/lp-admin-actions.php:65
+msgid "Draft"
+msgstr ""
+
+#: inc/admin/lp-admin-actions.php:64
+msgid "Scheduled"
+msgstr ""
+
+#: inc/admin/lp-admin-actions.php:63
+msgid "Pending Review"
+msgstr ""
+
+#: inc/admin/lp-admin-actions.php:62
+msgid "Private"
+msgstr ""
+
+#: inc/admin/lp-admin-actions.php:61
+#: inc/admin/views/dashboard/plugin-status/html-results.php:35
+msgid "Published"
+msgstr ""
+
+#: inc/admin/class-lp-modal-search-items.php:211
+#: inc/admin/class-lp-modal-search-users.php:135 inc/lp-core-functions.php:750
+msgid "<"
+msgstr ""
+
+#: inc/admin/class-lp-modal-search-items.php:212
+#: inc/admin/class-lp-modal-search-users.php:136 inc/lp-core-functions.php:751
+msgid ">"
+msgstr ""
+
+#: inc/admin/settings/class-lp-settings-emails.php:147
+#: inc/admin/lp-admin-functions.php:377 inc/admin/lp-admin-functions.php:418
+msgid "HTML"
+msgstr ""
+
+#: inc/admin/lp-admin-functions.php:376 inc/admin/lp-admin-functions.php:417
+msgid "Plain text"
+msgstr ""
+
+#: inc/admin/views/addons/html-loop-plugin.php:38
+msgid "<cite>By %s</cite>"
+msgstr ""
+
+#: inc/admin/helpers/class-lp-plugins-helper.php:254
+#: inc/admin/helpers/class-lp-plugins-helper.php:264
+msgid "Enable Now"
+msgstr ""
+
+#: inc/admin/helpers/class-lp-plugins-helper.php:252
+#: inc/admin/helpers/class-lp-plugins-helper.php:262
+msgid "Disable Now"
+msgstr ""
+
+#: inc/admin/helpers/class-lp-plugins-helper.php:269
+msgid "Buy %s now"
+msgstr ""
+
+#: inc/admin/helpers/class-lp-plugins-helper.php:254
+#: inc/admin/helpers/class-lp-plugins-helper.php:264
+msgid "Enable %s now"
+msgstr ""
+
+#: inc/admin/helpers/class-lp-plugins-helper.php:269
+msgid "Buy Now"
+msgstr ""
+
+#: inc/admin/helpers/class-lp-plugins-helper.php:252
+#: inc/admin/helpers/class-lp-plugins-helper.php:262
+msgid "Disable %s now"
+msgstr ""
+
+#. translators: 1: Plugin name and version.
+#: inc/admin/helpers/class-lp-plugins-helper.php:238
+msgid "Install Now"
+msgstr ""
+
+#: inc/libraries/meta-box/inc/validation.php:50
+msgid "Please correct the errors highlighted below and try again."
+msgstr ""
+
+#: templates/widgets/course-info/default.php:44
+#: inc/libraries/meta-box/inc/fields/select.php:92
+#: inc/user/class-lp-profile.php:814 inc/user/class-lp-profile.php:846
+#: inc/user/class-lp-profile.php:880 inc/lp-deprecated.php:370
+#: inc/lp-deprecated.php:402 inc/admin/lp-admin-actions.php:60
+#: inc/admin/views/statistics/users.php:29
+#: inc/admin/views/statistics/users.php:45
+#: inc/admin/views/statistics/orders.php:28
+#: inc/admin/views/statistics/orders.php:62
+#: inc/admin/views/statistics/courses.php:27
+#: inc/admin/views/statistics/courses.php:42
+#: inc/admin/views/statistics/general.php:43
+#: inc/admin/views/statistics/general.php:59
+#: inc/admin/lp-admin-functions.php:852 inc/admin/lp-admin-functions.php:1017
+#: inc/admin/lp-admin-functions.php:1219 inc/admin/lp-admin-functions.php:2030
+msgid "All"
+msgstr ""
+
+#: inc/emails/class-lp-email-enrolled-course-user.php:27
+#: inc/emails/class-lp-email-finished-course-user.php:27
+#: inc/emails/class-lp-email-new-order-user.php:27
+#: inc/emails/class-lp-email-cancelled-order-user.php:27
+#: inc/emails/class-lp-email-processing-order-user.php:26
+#: inc/emails/class-lp-email-completed-order-user.php:29
+msgid "User"
+msgstr ""
+
+#. Translators: %s is the taxonomy singular label.
+#: inc/libraries/meta-box/inc/fields/post.php:41
+#: inc/libraries/meta-box/inc/fields/taxonomy.php:53
+msgid "Select a %s"
+msgstr ""
+
+#: inc/libraries/meta-box/inc/fields/oembed.php:24
+msgid "Embed HTML not available."
+msgstr ""
+
+#: inc/libraries/meta-box/inc/fields/thickbox-image.php:55
+msgctxt "image upload"
+msgid "Upload Images"
+msgstr ""
+
+#: inc/libraries/meta-box/inc/fields/osm.php:60
+#: inc/libraries/meta-box/inc/fields/map.php:87
+msgid "Find Address"
+msgstr ""
+
+#: inc/libraries/meta-box/inc/fields/file.php:57
+msgid "Error: Cannot delete file"
+msgstr ""
+
+#. Translators: %d is the number of files in singular form.
+#: inc/libraries/meta-box/inc/fields/file.php:24
+msgid "You may only upload maximum %d file"
+msgstr ""
+
+#. Translators: %d is the number of files in plural form.
+#: inc/libraries/meta-box/inc/fields/file.php:26
+msgid "You may only upload maximum %d files"
+msgstr ""
+
+#: inc/libraries/meta-box/inc/fields/file.php:70
+msgctxt "file upload"
+msgid "+ Add new file"
+msgstr ""
+
+#: inc/libraries/meta-box/inc/fields/file-input.php:43
+#: inc/libraries/meta-box/inc/fields/select.php:92
+#: inc/admin/views/quiz/editor.php:64
+msgid "Select"
+msgstr ""
+
+#: inc/libraries/meta-box/inc/fields/file.php:125
+msgctxt "file upload"
+msgid "Delete"
+msgstr ""
+
+#: inc/libraries/meta-box/inc/fields/file-input.php:23
+msgid "Select File"
+msgstr ""
+
+#: inc/libraries/meta-box/inc/fields/file.php:126
+msgctxt "file upload"
+msgid "Edit"
+msgstr ""
+
+#: inc/libraries/meta-box/inc/fields/button.php:34
+msgid "Click me"
+msgstr ""
+
+#: inc/libraries/meta-box/inc/about/sections/welcome.php:20
+#: inc/libraries/meta-box/inc/about/sections/getting-started.php:25
+#: inc/libraries/meta-box/inc/about/sections/tabs.php:12
+#: inc/libraries/meta-box/inc/core.php:39
+msgid "Extensions"
+msgstr ""
+
+#: inc/gateways/paypal/class-lp-gateway-paypal.php:381
+msgid "IPN payment completed"
+msgstr ""
+
+#: inc/gateways/paypal/class-lp-gateway-paypal.php:96
+msgid "Pay with Paypal"
+msgstr ""
+
+#: inc/gateways/paypal/class-lp-gateway-paypal.php:242
+msgid "Error: order ID and key were not found in \"custom\"."
+msgstr ""
+
+#: inc/gateways/paypal/class-lp-gateway-paypal.php:250
+msgid "Error: Order Keys do not match %s and %s."
+msgstr ""
+
+#: inc/emails/class-lp-email-published-course.php:28
+msgid "Approved course"
+msgstr ""
+
+#: inc/custom-post-types/quiz.php:318
+msgid "Re-take"
+msgstr ""
+
+#: inc/custom-post-types/quiz.php:93
+msgid "Add New Quiz"
+msgstr ""
+
+#: inc/curds/class-lp-quiz-curd.php:85 inc/custom-post-types/quiz.php:97
+#: inc/admin/editor/class-lp-admin-editor-quiz.php:148
+msgid "New Quiz"
+msgstr ""
+
+#: inc/custom-post-types/quiz.php:98
+msgid "Update Quiz"
+msgstr ""
+
+#: inc/custom-post-types/quiz.php:96
+msgid "View Quiz"
+msgstr ""
+
+#: inc/custom-post-types/quiz.php:94
+msgid "Edit Quiz"
+msgstr ""
+
+#: inc/custom-post-types/quiz.php:99
+msgid "Search Quizzes"
+msgstr ""
+
+#: inc/custom-post-types/quiz.php:101
+msgid "No quiz found in Trash"
+msgstr ""
+
+#: inc/emails/class-lp-email-rejected-course.php:28
+#: inc/emails/class-lp-email-rejected-course.php:35
+msgid "Rejected course"
+msgstr ""
+
+#: inc/emails/class-lp-email-published-course.php:35
+msgid "Course approved"
+msgstr ""
+
+#: templates/widgets/course-info/default.php:34
+#: inc/user/class-lp-profile.php:307 inc/custom-post-types/quiz.php:90
+#: inc/custom-post-types/quiz.php:91 inc/custom-post-types/quiz.php:95
+#: inc/admin/settings/class-lp-settings-profile.php:157
+#: inc/admin/settings/class-lp-settings-profile.php:291
+msgid "Quizzes"
+msgstr ""
+
+#: inc/custom-post-types/question.php:298
+#: inc/admin/views/quiz/question-meta.php:31
+msgid "Mark for this question"
+msgstr ""
+
+#: inc/class-lp-multi-language.php:52 inc/user/class-lp-profile.php:326
+#: inc/custom-post-types/question.php:294
+#: inc/admin/sub-menus/class-lp-submenu-settings.php:14
+#: inc/admin/views/quiz/question-meta.php:12
+msgid "Settings"
+msgstr ""
+
+#: inc/custom-post-types/question.php:163 inc/updates/_update-from-0.9.php:1216
+msgid "Question Tag"
+msgstr ""
+
+#: inc/custom-post-types/question.php:194
+msgid "Search Questions"
+msgstr ""
+
+#: inc/custom-post-types/question.php:193
+msgid "Update Question"
+msgstr ""
+
+#: inc/custom-post-types/question.php:192
+msgid "Edit Question"
+msgstr ""
+
+#: inc/custom-post-types/question.php:189
+msgid "View Question"
+msgstr ""
+
+#: inc/custom-post-types/question.php:190
+msgid "Add New Question"
+msgstr ""
+
+#: inc/order/lp-order-functions.php:737
+msgctxt "Order status"
+msgid "Failed"
+msgstr ""
+
+#: inc/order/lp-order-functions.php:742
+msgid "Failed <span class=\"count\">(%s)</span>"
+msgid_plural "Failed <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: templates/content-quiz/progress.php:43
+#: inc/custom-post-types/question.php:187 inc/custom-post-types/quiz.php:183
+msgid "Question"
+msgstr ""
+
+#: inc/custom-post-types/question.php:185
+#: inc/custom-post-types/question.php:186
+msgid "Question Bank"
+msgstr ""
+
+#: inc/order/lp-order-functions.php:729
+msgctxt "Order status"
+msgid "Cancelled"
+msgstr ""
+
+#: inc/order/lp-order-functions.php:734
+msgid "Cancelled <span class=\"count\">(%s)</span>"
+msgid_plural "Cancelled <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: inc/order/lp-order-functions.php:726
+msgid "Completed <span class=\"count\">(%s)</span>"
+msgid_plural "Completed <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: inc/order/lp-order-functions.php:721
+msgctxt "Order status"
+msgid "Completed"
+msgstr ""
+
+#: inc/order/lp-order-functions.php:710
+msgid "Pending Payment <span class=\"count\">(%s)</span>"
+msgid_plural "Pending Payment <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: inc/order/lp-order-functions.php:713
+msgctxt "Order status"
+msgid "Processing"
+msgstr ""
+
+#: inc/order/lp-order-functions.php:718
+msgid "Processing <span class=\"count\">(%s)</span>"
+msgid_plural "Processing <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: inc/custom-post-types/order.php:694 inc/custom-post-types/order.php:911
+msgid "View Order"
+msgstr ""
+
+#: inc/custom-post-types/order.php:1007
+msgid "Order Actions"
+msgstr ""
+
+#: inc/order/lp-order-functions.php:705
+msgctxt "Order status"
+msgid "Pending Payment"
+msgstr ""
+
+#: inc/custom-post-types/order.php:908
+msgid "Add New Order"
+msgstr ""
+
+#: templates/order/order-details.php:23 inc/custom-post-types/order.php:909
+#: inc/custom-post-types/order.php:1006
+msgid "Order Details"
+msgstr ""
+
+#: inc/class-lp-gdpr.php:165 inc/user/class-lp-profile.php:313
+#: inc/custom-post-types/order.php:905 inc/custom-post-types/order.php:906
+#: inc/custom-post-types/order.php:910
+#: inc/admin/settings/class-lp-settings-profile.php:165
+#: inc/admin/sub-menus/class-lp-submenu-statistics.php:22
+#: inc/admin/sub-menus/class-lp-submenu-statistics.php:29
+msgid "Orders"
+msgstr ""
+
+#: templates/emails/plain/order-items-table.php:30
+#: templates/emails/order-items-table.php:53
+#: templates/profile/tabs/orders/list.php:34 inc/class-lp-gdpr.php:415
+#: inc/custom-post-types/order.php:775
+#: inc/admin/meta-box/fields/list-emails.php:30
+#: inc/admin/meta-box/fields/payment-order.php:32
+#: inc/admin/views/meta-boxes/order/details.php:57
+msgid "Status"
+msgstr ""
+
+#: inc/custom-post-types/order.php:771
+msgid "Student"
+msgstr ""
+
+#: templates/profile/tabs/quizzes.php:39
+#: templates/profile/tabs/courses/purchased.php:39
+#: templates/profile/tabs/orders/list.php:33
+#: templates/profile/tabs/courses.php:33
+#: templates/checkout/order-received.php:62 inc/custom-post-types/order.php:773
+#: inc/admin/views/statistics/orders.php:46
+#: inc/admin/views/meta-boxes/order/details.php:38
+msgid "Date"
+msgstr ""
+
+#: templates/profile/tabs/orders/list.php:32
+#: inc/custom-post-types/order.php:770 inc/custom-post-types/order.php:907
+msgid "Order"
+msgstr ""
+
+#: inc/custom-post-types/order.php:652 inc/custom-post-types/order.php:655
+msgid "Apply"
+msgstr ""
+
+#: inc/custom-post-types/order.php:635
+msgid "Processing..."
+msgstr ""
+
+#: inc/custom-post-types/lesson.php:359
+msgid "Standard"
+msgstr ""
+
+#: inc/custom-post-types/question.php:379
+#: inc/custom-post-types/abstract.php:600
+#: inc/admin/views/meta-boxes/course/assigned.php:27
+#: inc/admin/views/meta-boxes/quiz/assigned.php:49
+msgid "Not assigned yet"
+msgstr ""
+
+#: inc/custom-post-types/abstract.php:594
+msgid "Remove Filter"
+msgstr ""
+
+#: inc/widgets/course-filters/tmpl/default.php:83
+msgid "Filter"
+msgstr ""
+
+#: inc/order/class-lp-order.php:929 inc/custom-post-types/question.php:376
+#: inc/custom-post-types/abstract.php:587
+#: inc/custom-post-types/abstract.php:779
+#: inc/custom-post-types/abstract.php:788
+#: inc/admin/class-lp-install-sample-data.php:130
+#: inc/admin/views/meta-boxes/course/assigned.php:22
+#: inc/admin/views/meta-boxes/quiz/assigned.php:28
+#: inc/admin/views/meta-boxes/quiz/assigned.php:38
+msgid "View"
+msgstr ""
+
+#: templates/single-course/section/item-meta.php:25
+#: inc/course/lp-course-functions.php:948 inc/custom-post-types/lesson.php:319
+#: inc/custom-post-types/quiz.php:385 inc/custom-post-types/abstract.php:800
+#: inc/lp-template-functions.php:2674
+msgid "Preview"
+msgstr ""
+
+#: inc/custom-post-types/lesson.php:429
+msgid "Please enter the title of the lesson"
+msgstr ""
+
+#: inc/custom-post-types/lesson.php:315
+msgid "Format"
+msgstr ""
+
+#: inc/custom-post-types/question.php:167 inc/updates/_update-from-0.9.php:1198
+#: inc/updates/_update-from-0.9.php:1220
+msgid "All Tags"
+msgstr ""
+
+#: inc/libraries/meta-box/inc/fields/checkbox.php:53 inc/class-lp-gdpr.php:426
+#: inc/class-lp-assets.php:63 inc/lp-core-functions.php:2292
+#: inc/lp-core-functions.php:3385
+msgid "Yes"
+msgstr ""
+
+#: inc/custom-post-types/lesson.php:227
+msgid "Lesson Settings"
+msgstr ""
+
+#: inc/custom-post-types/lesson.php:231
+msgid "Lesson Duration"
+msgstr ""
+
+#: inc/custom-post-types/lesson.php:239
+msgid "Preview Lesson"
+msgstr ""
+
+#: inc/custom-post-types/lesson.php:187
+msgid "View Lesson"
+msgstr ""
+
+#: inc/custom-post-types/lesson.php:192
+msgid "No lesson found"
+msgstr ""
+
+#: inc/custom-post-types/course.php:1357
+msgid "No content"
+msgstr ""
+
+#: inc/course/lp-course-functions.php:581 inc/custom-post-types/lesson.php:184
+#: inc/lp-template-functions.php:2671
+#: inc/admin/settings/class-lp-settings-courses.php:150
+#: inc/lp-core-functions.php:376
+msgid "Lesson"
+msgstr ""
+
+#: inc/custom-post-types/lesson.php:185
+msgid "Add New Lesson"
+msgstr ""
+
+#: inc/custom-post-types/lesson.php:189
+msgid "Edit Lesson"
+msgstr ""
+
+#: inc/custom-post-types/lesson.php:190
+msgid "Update Lesson"
+msgstr ""
+
+#: inc/custom-post-types/lesson.php:191
+msgid "Search Lessons"
+msgstr ""
+
+#: inc/custom-post-types/lesson.php:193
+msgid "No lesson found in Trash"
+msgstr ""
+
+#: templates/widgets/course-info/default.php:29
+#: inc/custom-post-types/lesson.php:182 inc/custom-post-types/lesson.php:183
+#: inc/custom-post-types/lesson.php:186
+msgid "Lessons"
+msgstr ""
+
+#: inc/custom-post-types/question.php:166 inc/updates/_update-from-0.9.php:1197
+#: inc/updates/_update-from-0.9.php:1219
+msgid "Add New Tag"
+msgstr ""
+
+#: inc/custom-post-types/course.php:1307 inc/admin/lp-admin-actions.php:212
+msgid "Categories"
+msgstr ""
+
+#: inc/custom-post-types/course.php:878
+msgid "Course Suggestion Price"
+msgstr ""
+
+#: inc/custom-post-types/course.php:969
+msgid "Review Logs"
+msgstr ""
+
+#: inc/custom-post-types/course.php:883
+msgid "The course price you want to suggest for admin to set."
+msgstr ""
+
+#: inc/custom-post-types/course.php:1295 inc/custom-post-types/course.php:1302
+msgid "Content"
+msgstr ""
+
+#: inc/admin/views/statistics/courses.php:45
+#: inc/admin/views/statistics/general.php:62
+#: inc/admin/lp-admin-functions.php:1032 inc/admin/lp-admin-functions.php:2045
+msgid "Paid"
+msgstr ""
+
+#: templates/emails/order-items-table.php:68
+#: inc/custom-post-types/course.php:826 inc/custom-post-types/course.php:1297
+#: inc/custom-post-types/course.php:1304
+msgid "Price"
+msgstr ""
+
+#: inc/custom-post-types/course.php:805
+msgid "This course is free."
+msgstr ""
+
+#: templates/content-quiz/intro.php:25
+#: inc/libraries/meta-box/inc/fields/checkbox.php:53 inc/class-lp-gdpr.php:426
+#: inc/class-lp-assets.php:64 inc/lp-core-functions.php:2293
+#: inc/lp-core-functions.php:3386
+msgid "No"
+msgstr ""
+
+#: inc/custom-post-types/course.php:704
+msgid "Assessment"
+msgstr ""
+
+#: inc/custom-post-types/course.php:731
+msgid "Passing condition value"
+msgstr ""
+
+#: inc/custom-post-types/course.php:710
+msgid "Course result"
+msgstr ""
+
+#: inc/custom-post-types/course.php:668
+msgid ""
+"<br /><strong>Note! </strong>No final quiz in course, please add a final quiz"
+msgstr ""
+
+#: templates/content-quiz/intro.php:28 inc/custom-post-types/course.php:584
+#: inc/custom-post-types/lesson.php:316 inc/custom-post-types/quiz.php:266
+#: inc/custom-post-types/quiz.php:384
+msgid "Duration"
+msgstr ""
+
+#: inc/custom-post-types/course.php:233
+msgctxt "slug"
+msgid "course-tag"
+msgstr ""
+
+#: inc/custom-post-types/quiz.php:229
+msgid "General Settings"
+msgstr ""
+
+#: inc/custom-post-types/course.php:224 inc/admin/lp-admin-actions.php:217
+msgid "Tags"
+msgstr ""
+
+#: inc/custom-post-types/course.php:223
+msgid "Choose from the most used tags"
+msgstr ""
+
+#: inc/custom-post-types/course.php:222
+msgid "Add or remove tags"
+msgstr ""
+
+#: inc/custom-post-types/course.php:220
+msgid "New Course Tag Name"
+msgstr ""
+
+#: inc/custom-post-types/course.php:212
+msgid "Search Course Tags"
+msgstr ""
+
+#: inc/custom-post-types/course.php:213
+msgid "Popular Course Tags"
+msgstr ""
+
+#: inc/custom-post-types/course.php:214
+msgid "All Course Tags"
+msgstr ""
+
+#: inc/custom-post-types/course.php:217
+msgid "Edit Course Tag"
+msgstr ""
+
+#: inc/custom-post-types/course.php:218
+msgid "Update Course Tag"
+msgstr ""
+
+#: inc/custom-post-types/course.php:219
+msgid "Add New Course Tag"
+msgstr ""
+
+#: inc/custom-post-types/course.php:221
+msgid "Separate tags with commas"
+msgstr ""
+
+#: inc/custom-post-types/course.php:199
+msgctxt "slug"
+msgid "course-category"
+msgstr ""
+
+#: inc/custom-post-types/course.php:210
+msgid "Course Tags"
+msgstr ""
+
+#: inc/custom-post-types/question.php:164
+#: inc/custom-post-types/question.php:165 inc/custom-post-types/course.php:211
+#: inc/updates/_update-from-0.9.php:1194 inc/updates/_update-from-0.9.php:1195
+#: inc/updates/_update-from-0.9.php:1196 inc/updates/_update-from-0.9.php:1217
+#: inc/updates/_update-from-0.9.php:1218
+msgid "Tag"
+msgstr ""
+
+#: inc/custom-post-types/course.php:187
+msgid "Add New Course Category"
+msgstr ""
+
+#: inc/custom-post-types/course.php:188
+msgid "All Categories"
+msgstr ""
+
+#: inc/custom-post-types/course.php:130
+msgctxt "Post Type General Name"
+msgid "Courses"
+msgstr ""
+
+#: inc/custom-post-types/course.php:131
+msgctxt "Post Type Singular Name"
+msgid "Course"
+msgstr ""
+
+#: inc/custom-post-types/course.php:133
+msgid "Parent Item:"
+msgstr ""
+
+#: inc/custom-post-types/course.php:182 inc/custom-post-types/course.php:184
+msgid "Course Categories"
+msgstr ""
+
+#: inc/custom-post-types/course.php:142
+msgid "No course found in Trash"
+msgstr ""
+
+#: inc/custom-post-types/course.php:135
+msgid "View Course"
+msgstr ""
+
+#: inc/custom-post-types/course.php:136
+msgid "Add New Course"
+msgstr ""
+
+#: inc/custom-post-types/course.php:138
+msgid "Edit Course"
+msgstr ""
+
+#: inc/custom-post-types/course.php:139
+msgid "Update Course"
+msgstr ""
+
+#: inc/custom-post-types/course.php:140
+msgid "Search Courses"
+msgstr ""
+
+#: inc/course/lp-course-functions.php:235
+msgid "The course %d does not exists"
+msgstr ""
+
+#: inc/custom-post-types/course.php:185 inc/custom-post-types/course.php:186
+msgid "Category"
+msgstr ""
+
+#: inc/course/abstract-course.php:487
+msgid "You enrolled"
+msgstr ""
+
+#: inc/lp-core-functions.php:1588
+msgid "Your phone number"
+msgstr ""
+
+#: templates/single-course/buttons/finish.php:24
+msgid "Finish course"
+msgstr ""
+
+#: inc/course/lp-course-functions.php:187
+msgctxt "slug"
+msgid "uncategorized"
+msgstr ""
+
+#: inc/class-lp-page-controller.php:465
+msgid "The user %s is not available!"
+msgstr ""
+
+#: inc/course/abstract-course.php:504
+msgid "No student enrolled"
+msgstr ""
+
+#: inc/course/abstract-course.php:675 inc/custom-post-types/course.php:1374
+#: inc/admin/views/statistics/courses.php:46
+#: inc/admin/views/statistics/general.php:63
+#: inc/admin/lp-admin-functions.php:1037 inc/admin/lp-admin-functions.php:2050
+msgid "Free"
+msgstr ""
+
+#: inc/lp-core-functions.php:1586
+msgid "Phone"
+msgstr ""
+
+#: inc/lp-core-functions.php:1580
+msgid "Your email address"
+msgstr ""
+
+#: inc/lp-core-functions.php:1572
+msgid "Your name"
+msgstr ""
+
+#: inc/shortcodes/class-lp-shortcode-register-form.php:72
+#: inc/shortcodes/class-lp-shortcode-register-form.php:74
+#: inc/admin/meta-box/fields/list-emails.php:28 inc/lp-core-functions.php:1578
+msgid "Email"
+msgstr ""
+
+#: inc/admin/views/tools/course/html-user.php:29
+#: inc/admin/views/tools/course/html-course.php:29
+#: inc/admin/views/quiz/editor.php:29 inc/lp-core-functions.php:1570
+msgid "Name"
+msgstr ""
+
+#: templates/global/become-teacher-form/button.php:18
+#: inc/shortcodes/class-lp-shortcode-become-a-teacher.php:123
+msgid "Submit"
+msgstr ""
+
+#: inc/class-lp-install.php:517
+msgid "No, thank!"
+msgstr ""
+
+#: inc/libraries/meta-box/inc/about/sections/welcome.php:19
+#: inc/libraries/meta-box/inc/core.php:38 inc/class-lp-multi-language.php:53
+msgid "Documentation"
+msgstr ""
+
+#: inc/class-lp-install.php:516
+msgid "Do not ask again."
+msgstr ""
+
+#: inc/class-lp-install.php:517
+#: inc/admin/views/tools/database/html-upgrade-database.php:17
+msgid "Upgrade now"
+msgstr ""
+
+#: inc/class-lp-emails.php:137 inc/class-lp-emails.php:144
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: inc/class-lp-checkout.php:420
+msgid "Please enter user password"
+msgstr ""
+
+#: inc/class-lp-checkout.php:267 inc/class-lp-checkout.php:276
+#: inc/class-lp-checkout.php:315
+msgid "Error %d: Unable to create order. Please try again."
+msgstr ""
+
+#: templates/checkout/form-login.php:70
+#: inc/shortcodes/class-lp-shortcode-register-form.php:80
+#: inc/shortcodes/class-lp-shortcode-register-form.php:82
+#: inc/shortcodes/class-lp-shortcode-login-form.php:69
+#: inc/shortcodes/class-lp-shortcode-login-form.php:71
+#: inc/class-lp-checkout.php:211 inc/user/class-lp-profile.php:337
+msgid "Password"
+msgstr ""
+
+#: templates/checkout/form-login.php:63
+#: inc/shortcodes/class-lp-shortcode-register-form.php:64
+#: inc/shortcodes/class-lp-shortcode-register-form.php:66
+#: inc/class-lp-checkout.php:210
+msgid "Username"
+msgstr ""
+
+#: inc/class-lp-breadcrumb.php:388
+msgid "Search results for &ldquo;%s&rdquo;"
+msgstr ""
+
+#: inc/class-lp-breadcrumb.php:397
+msgid "Page %d"
+msgstr ""
+
+#: inc/class-lp-breadcrumb.php:355
+msgid "Author: %s"
+msgstr ""
+
+#: inc/class-lp-breadcrumb.php:124
+msgid "Error 404"
+msgstr ""
+
+#: inc/class-lp-breadcrumb.php:278
+msgid "Posts tagged &ldquo;%s&rdquo;"
+msgstr ""
+
+#: inc/class-lp-ajax.php:269
+msgid "Access denied!"
+msgstr ""
+
+#: inc/admin/views/updates/0.9/step-welcome.php:8
+msgid "Yes, upgrade!"
+msgstr ""
+
+#: inc/admin/views/updates/0.9/step-welcome.php:5
+msgid "Click <strong>Yes, upgrade!</strong> button to start."
+msgstr ""
+
+#: inc/lp-template-functions.php:3324
+msgid "Back to courses"
+msgstr ""
+
+#: inc/admin/views/updates/0.9/step-welcome.php:7
+msgid "No, back to Admin"
+msgstr ""
+
+#: inc/admin/views/updates/0.9/step-welcome.php:1
+msgid "Welcome to LearnPress!"
+msgstr ""
+
+#: inc/class-lp-ajax.php:367
+msgid "Error!"
+msgstr ""
+
+#: inc/admin/views/setup/steps/finish.php:16
+#: inc/admin/views/updates/0.9/step-upgraded.php:2
+msgid "What's next?"
+msgstr ""
+
+#: inc/admin/views/updates/0.9/step-upgraded.php:14
+msgid "Manage add-ons"
+msgstr ""
+
+#: inc/admin/views/updates/0.9/step-upgraded.php:11
+msgid "Setting up your LearnPress"
+msgstr ""
+
+#: inc/admin/views/updates/0.9/step-repair-database.php:18
+msgid "Rollback"
+msgstr ""
+
+#: inc/admin/views/updates/0.9/step-repair-database.php:1
+msgid "Update Database"
+msgstr ""
+
+#: inc/admin/views/updates/0.9/step-upgraded.php:8
+msgid "Create a new course"
+msgstr ""
+
+#: inc/admin/views/updates/0.9/step-repair-database.php:14
+msgid "Updating! Please do not close this page until the work is done"
+msgstr ""
+
+#: inc/admin/views/updates/0.9/step-repair-database.php:7
+#: inc/admin/views/updates/0.9/step-repair-database.php:10
+msgid "Update post meta"
+msgstr ""
+
+#: inc/admin/views/updates/0.9/step-repair-database.php:4
+msgid "Update custom post type"
+msgstr ""
+
+#: inc/libraries/meta-box/inc/about/about.php:79
+#: inc/user/class-lp-profile.php:294
+#: inc/admin/settings/class-lp-settings-profile.php:141
+#: inc/admin/views/updates/0.9/step-upgraded.php:16
+msgid "Dashboard"
+msgstr ""
+
+#: inc/admin/views/settings/setting-field.php:108
+msgid "Hard Crop?"
+msgstr ""
+
+#: inc/admin/views/settings/payments.php:68
+#: inc/admin/views/setup/setup-paypal.php:34
+#: inc/gateways/paypal/class-lp-gateway-paypal.php:526
+msgid "Sandbox Mode"
+msgstr ""
+
+#: inc/admin/views/settings/payments.php:76
+#: inc/gateways/paypal/class-lp-gateway-paypal.php:542
+msgid "Sandbox Email Address"
+msgstr ""
+
+#: inc/admin/views/settings/payments.php:85
+msgid "Sandbox API Username"
+msgstr ""
+
+#: inc/admin/views/settings/payments.php:93
+msgid "Sandbox API Password"
+msgstr ""
+
+#: inc/admin/views/settings/payments.php:101
+msgid "Sandbox API Signature"
+msgstr ""
+
+#: inc/admin/views/settings/payments.php:49
+msgid "API Password"
+msgstr ""
+
+#: inc/admin/views/settings/payments.php:56
+msgid "API Signature"
+msgstr ""
+
+#: inc/admin/views/settings/setting-field.php:96
+msgid ""
+"The settings of this image size have been disabled because its values are "
+"being overwritten by a filter."
+msgstr ""
+
+#: inc/admin/views/settings/payments.php:42
+msgid "API Username"
+msgstr ""
+
+#: inc/admin/views/settings/payments.php:33
+msgid "Email Address"
+msgstr ""
+
+#: inc/admin/views/settings/payments.php:27
+msgid "Basic"
+msgstr ""
+
+#: inc/admin/views/settings/payments.php:28
+msgid "Security"
+msgstr ""
+
+#: inc/shortcodes/class-lp-shortcode-become-a-teacher.php:121
+#: inc/admin/class-lp-admin.php:310 inc/admin/views/setup/steps/pages.php:49
+msgid "Become a Teacher"
+msgstr ""
+
+#: inc/admin/meta-box/fields/course-permalink.php:52
+#: inc/admin/views/settings/fields/course-permalink.php:36
+msgid "Courses base"
+msgstr ""
+
+#: inc/admin/meta-box/fields/course-permalink.php:57
+#: inc/admin/views/settings/fields/course-permalink.php:41
+msgid "Courses base with category"
+msgstr ""
+
+#: inc/custom-post-types/question.php:338
+#: inc/admin/views/settings/payments.php:24 inc/admin/views/quiz/editor.php:30
+msgid "Type"
+msgstr ""
+
+#: inc/admin/meta-box/fields/course-permalink.php:37
+#: inc/admin/views/settings/fields/course-permalink.php:15
+msgctxt "default-slug"
+msgid "course"
+msgstr ""
+
+#: inc/admin/meta-box/fields/course-permalink.php:42
+#: inc/admin/views/settings/fields/course-permalink.php:26
+msgid "Default"
+msgstr ""
+
+#: inc/emails/class-lp-email-new-course.php:28
+#: inc/emails/class-lp-email-new-course.php:35
+#: inc/admin/sub-menus/class-lp-submenu-settings.php:63
+msgid "New course"
+msgstr ""
+
+#: inc/admin/settings/class-lp-settings-emails.php:159
+#: inc/admin/views/settings/emails/general.php:47
+msgid "Footer text"
+msgstr ""
+
+#: inc/emails/class-lp-email-new-course.php:137
+#: inc/emails/class-lp-email.php:1002
+msgid "Recipient(s)"
+msgstr ""
+
+#: inc/admin/views/settings/emails/general.php:36
+msgid "Email Template"
+msgstr ""
+
+#: inc/admin/settings/class-lp-settings-emails.php:151
+#: inc/admin/views/settings/emails/general.php:40
+msgid "Header image"
+msgstr ""
+
+#: inc/admin/settings/class-lp-settings-emails.php:114
+#: inc/admin/views/settings/emails/general.php:17
+msgid ""
+"The following options affect the sender (email address and name) used in "
+"LearnPress emails."
+msgstr ""
+
+#: inc/emails/class-lp-email-rejected-course.php:142
+#: inc/emails/class-lp-email-new-course.php:171
+#: inc/emails/class-lp-email-updated-course.php:187
+#: inc/emails/class-lp-email-user-order-completed.php:160
+#: inc/emails/class-lp-email-user-order-changed-status.php:159
+#: inc/emails/class-lp-email-published-course.php:145
+#: inc/emails/class-lp-email.php:1036
+msgid "Heading"
+msgstr ""
+
+#: inc/admin/views/settings/emails/general.php:15
+msgid "Email Options"
+msgstr ""
+
+#: inc/admin/views/settings/emails/general.php:23
+msgid "From Name"
+msgstr ""
+
+#: inc/admin/views/settings/emails/general.php:29
+msgid "From Email"
+msgstr ""
+
+#: inc/admin/views/settings/emails/_email-template.php:68
+msgid "Delete template file"
+msgstr ""
+
+#: inc/admin/views/settings/emails/_email-template.php:83
+msgid "Copy file to theme"
+msgstr ""
+
+#: inc/admin/views/settings/emails/_email-template.php:78
+#: inc/admin/views/settings/emails/email-template.php:87
+msgid ""
+"To override and edit this email template copy <code>%s</code> to your theme "
+"folder: <code>%s</code>."
+msgstr ""
+
+#: inc/admin/views/settings/emails/_email-template.php:11
+#: inc/admin/views/settings/emails/email-template.php:13
+msgid "HTML template"
+msgstr ""
+
+#: inc/admin/views/settings/emails/_email-template.php:12
+#: inc/admin/views/settings/emails/email-template.php:14
+msgid "Plain text template"
+msgstr ""
+
+#: inc/admin/views/settings/emails/_email-template.php:63
+msgid ""
+"This template has been overridden by your theme and can be found in: <code>"
+"%s</code>."
+msgstr ""
+
+#: inc/emails/class-lp-email-rejected-course.php:159
+#: inc/emails/class-lp-email-new-course.php:188
+#: inc/emails/class-lp-email-updated-course.php:204
+#: inc/emails/class-lp-email-user-order-completed.php:177
+#: inc/emails/class-lp-email-user-order-changed-status.php:176
+#: inc/emails/class-lp-email-published-course.php:162
+#: inc/emails/class-lp-email.php:1053
+#: inc/admin/views/settings/emails/_email-template.php:3
+#: inc/admin/views/settings/emails/email-template.php:6
+msgid "Email content"
+msgstr ""
+
+#: inc/admin/views/settings/emails/become-a-teacher-request.php:41
+#: inc/lp-core-functions.php:1592
+msgid "Message"
+msgstr ""
+
+#: inc/admin/views/settings/emails/become-a-teacher-request.php:37
+msgid "Email subject"
+msgstr ""
+
+#: inc/emails/class-lp-email-rejected-course.php:125
+#: inc/emails/class-lp-email-new-course.php:154
+#: inc/emails/class-lp-email-updated-course.php:170
+#: inc/emails/class-lp-email-user-order-completed.php:143
+#: inc/emails/class-lp-email-user-order-changed-status.php:142
+#: inc/emails/class-lp-email-published-course.php:128
+#: inc/emails/class-lp-email.php:1019
+#: inc/admin/views/settings/emails/become-a-teacher-request.php:33
+msgid "Subject"
+msgstr ""
+
+#: inc/emails/class-lp-email-rejected-course.php:119
+#: inc/emails/class-lp-email-new-course.php:131
+#: inc/emails/class-lp-email-updated-course.php:164
+#: inc/emails/class-lp-email-user-order-completed.php:137
+#: inc/emails/class-lp-email-user-order-changed-status.php:136
+#: inc/emails/class-lp-email-published-course.php:122
+#: inc/emails/class-lp-email.php:996
+#: inc/admin/views/settings/emails/become-a-teacher-request.php:25
+#: inc/admin/views/settings/payments.php:17
+#: inc/admin/views/setup/setup-stripe.php:3
+#: inc/admin/views/setup/setup-paypal.php:17
+#: inc/gateways/paypal/class-lp-gateway-paypal.php:500
+msgid "Enable"
+msgstr ""
+
+#: inc/curds/class-lp-question-curd.php:46
+#: inc/admin/editor/class-lp-admin-editor-question.php:108
+msgid "New Question"
+msgstr ""
+
+#: inc/admin/views/settings/fields/image-size.php:18
+msgid "Crop?"
+msgstr ""
+
+#: inc/admin/meta-box/fields/course-permalink.php:92
+#: inc/admin/views/settings/fields/course-permalink.php:77
+msgid "Custom Base"
+msgstr ""
+
+#: inc/admin/meta-box/fields/image-dimensions.php:32
+#: inc/admin/views/settings/fields/image-size.php:13
+msgid "px"
+msgstr ""
+
+#: inc/admin/views/meta-boxes/order/details.php:174
+msgid "Add Item"
+msgstr ""
+
+#: inc/admin/views/quiz/question-answer.php:19
+#: inc/admin/views/question/answer.php:18
+msgid "Answer Text"
+msgstr ""
+
+#: inc/admin/views/meta-boxes/order/details.php:188
+msgid "Customer Note"
+msgstr ""
+
+#: inc/admin/views/meta-boxes/order/details.php:236
+msgid "Type here to search the course"
+msgstr ""
+
+#: inc/admin/views/meta-boxes/order/details.php:180
+msgid "Calculate Total"
+msgstr ""
+
+#: templates/content-quiz/intro.php:36 inc/custom-post-types/question.php:188
+#: inc/custom-post-types/quiz.php:184 inc/custom-post-types/quiz.php:383
+#: inc/admin/views/quiz/modal-choose-items.php:57
+#: inc/admin/views/quiz/editor.php:16
+msgid "Questions"
+msgstr ""
+
+#: templates/emails/plain/order-items-table.php:60
+#: templates/emails/order-items-table.php:96
+#: templates/profile/tabs/orders/list.php:35
+#: templates/checkout/review-order.php:33
+#: templates/checkout/review-order.php:162
+#: templates/checkout/order-received.php:68
+#: templates/order/order-details.php:29 templates/order/order-details.php:85
+#: inc/custom-post-types/order.php:774
+#: inc/admin/views/meta-boxes/order/details.php:158
+msgid "Total"
+msgstr ""
+
+#: inc/admin/views/meta-boxes/order/details.php:138
+msgid "No order items"
+msgstr ""
+
+#: inc/admin/views/meta-boxes/order/details.php:144
+msgid "Sub Total"
+msgstr ""
+
+#: inc/admin/views/meta-boxes/order/details.php:126
+msgid "Cost"
+msgstr ""
+
+#: templates/emails/order-items-table.php:67
+#: inc/admin/views/meta-boxes/order/details.php:127
+msgid "Quantity"
+msgstr ""
+
+#: inc/admin/views/meta-boxes/order/details.php:128
+msgid "Amount"
+msgstr ""
+
+#: inc/emails/class-lp-email-processing-order-guest.php:27
+#: inc/emails/class-lp-email-completed-order-guest.php:29
+#: inc/emails/class-lp-email-cancelled-order-guest.php:27
+#: inc/emails/class-lp-email-new-order-guest.php:27
+#: inc/admin/class-lp-admin-assets.php:25
+msgid "Guest"
+msgstr ""
+
+#: inc/custom-post-types/order.php:878
+msgid "Pay via <strong>%s</strong>"
+msgstr ""
+
+#: inc/admin/views/meta-boxes/order/details.php:120
+msgid "Order Items"
+msgstr ""
+
+#: inc/admin/views/meta-boxes/order/details.php:25
+msgid "Order %s"
+msgstr ""
+
+#: templates/checkout/order-received.php:35
+#: inc/custom-post-types/course.php:105
+#: inc/admin/views/meta-boxes/order/details.php:125
+#: inc/gateways/paypal/class-lp-gateway-paypal.php:436
+msgid "Item"
+msgstr ""
+
+#: inc/admin/views/meta-boxes/order/actions.php:31
+msgid "Move to Trash"
+msgstr ""
+
+#: inc/admin/views/meta-boxes/order/actions.php:29
+msgid "Delete Permanently"
+msgstr ""
+
+#: templates/content-lesson/no-content.php:22 inc/attributes/course.php:232
+#: inc/custom-post-types/question.php:374
+#: inc/custom-post-types/abstract.php:585
+#: inc/admin/class-lp-install-sample-data.php:132
+msgid "Edit"
+msgstr ""
+
+#: inc/class-lp-gdpr.php:155
+msgid "Order status"
+msgstr ""
+
+#: inc/admin/views/meta-boxes/order/child-order.php:21
+#: inc/admin/views/meta-boxes/order/details.php:82
+#: inc/admin/views/meta-boxes/order/details.php:195
+#: inc/admin/views/meta-boxes/order/details.php:204
+msgid "Customer"
+msgstr ""
+
+#: inc/admin/views/meta-boxes/course/review-logs.php:42
+msgid "View all"
+msgstr ""
+
+#: inc/admin/views/meta-boxes/course/review-logs.php:40
+msgid "View less"
+msgstr ""
+
+#: inc/admin/views/meta-boxes/course/review-logs.php:25
+msgid "Submit for review"
+msgstr ""
+
+#: inc/libraries/meta-box/inc/fields/autocomplete.php:23
+#: inc/libraries/meta-box/inc/fields/autocomplete.php:85
+#: inc/libraries/meta-box/inc/fields/autocomplete.php:97
+#: inc/admin/meta-box/fields/color-schema.php:106
+#: inc/admin/views/meta-boxes/course/review-logs.php:31
+msgid "Delete"
+msgstr ""
+
+#: inc/user/class-lp-profile.php:815
+#: inc/admin/views/meta-boxes/course/review-logs.php:25
+#: inc/admin/lp-admin-functions.php:1022 inc/admin/lp-admin-functions.php:2035
+msgid "Publish"
+msgstr ""
+
+#: inc/admin/views/meta-boxes/course/review-log.php:51
+msgid "Message to Instructor"
+msgstr ""
+
+#: inc/admin/views/meta-boxes/course/review-log.php:34
+#: inc/admin/views/meta-boxes/course/review-log.php:42
+msgid "Message to Reviewer"
+msgstr ""
+
+#: inc/admin/views/course/section.php:38
+msgid "Describe about this section"
+msgstr ""
+
+#: templates/profile/tabs/settings/avatar.php:60
+#: inc/libraries/meta-box/inc/fields/file-input.php:45
+#: inc/admin/views/tools/database/html-remove-outdated-data.php:23
+#: inc/admin/views/tools/database/html-remove-database.php:23
+msgid "Remove"
+msgstr ""
+
+#: inc/admin/views/meta-boxes/order/details.php:239
+msgid "No results"
+msgstr ""
+
+#: inc/admin/lp-admin-functions.php:249
+msgid "Cancel [ESC]"
+msgstr ""
+
+#: inc/custom-post-types/question.php:191 inc/custom-post-types/course.php:137
+#: inc/custom-post-types/lesson.php:188 inc/custom-post-types/order.php:912
+msgid "Add New"
+msgstr ""
+
+#: inc/lp-template-functions.php:569 inc/admin/views/course/curriculum.php:15
+msgid "Curriculum"
+msgstr ""
+
+#: inc/admin/views/course/modal-choose-items.php:72
+#: inc/admin/views/meta-boxes/order/details.php:242
+#: inc/admin/views/quiz/modal-choose-items.php:60
+#: inc/admin/class-lp-modal-search-items.php:60
+#: inc/admin/class-lp-modal-search-users.php:50
+msgid "Close"
+msgstr ""
+
+#: inc/custom-post-types/course.php:1296 inc/custom-post-types/course.php:1303
+#: inc/admin/views/statistics/users.php:8
+#: inc/admin/views/statistics/users.php:47
+#: inc/admin/views/statistics/orders.php:8
+#: inc/admin/views/statistics/courses.php:8
+#: inc/admin/views/statistics/general.php:8
+#: inc/admin/views/tools/course/html-course.php:30
+#: inc/admin/lp-admin-functions.php:862
+msgid "Students"
+msgstr ""
+
+#: inc/admin/views/course/modal-choose-items.php:78
+msgid "Type here to search item"
+msgstr ""
+
+#: inc/admin/views/course/modal-choose-items.php:101
+#: inc/admin/views/quiz/modal-choose-items.php:90
+#: inc/admin/class-lp-modal-search-items.php:59
+#: inc/admin/class-lp-modal-search-users.php:49
+msgid "Add"
+msgstr ""
+
+#: inc/admin/sub-menus/class-lp-submenu-settings.php:95
+msgid "Save settings"
+msgstr ""
+
+#: inc/admin/sub-menus/class-lp-submenu-addons.php:16
+msgid "LearnPress Add-ons"
+msgstr ""
+
+#: inc/admin/views/statistics/users.php:39
+#: inc/admin/views/statistics/orders.php:37
+#: inc/admin/views/statistics/courses.php:36
+#: inc/admin/views/statistics/general.php:53
+msgid "Go"
+msgstr ""
+
+#: inc/admin/views/statistics/users.php:22
+#: inc/admin/views/statistics/orders.php:22
+#: inc/admin/views/statistics/courses.php:21
+#: inc/admin/views/statistics/general.php:36
+msgid "Last 30 Days"
+msgstr ""
+
+#: inc/admin/views/statistics/users.php:26
+#: inc/admin/views/statistics/orders.php:25
+#: inc/admin/views/statistics/courses.php:24
+#: inc/admin/views/statistics/general.php:40
+msgid "Last 12 Months"
+msgstr ""
+
+#: inc/admin/views/statistics/users.php:33
+#: inc/admin/views/statistics/orders.php:32
+#: inc/admin/views/statistics/courses.php:31
+#: inc/admin/views/statistics/general.php:47
+msgid "From"
+msgstr ""
+
+#: inc/admin/views/statistics/users.php:35
+#: inc/admin/views/statistics/orders.php:34
+#: inc/admin/views/statistics/courses.php:33
+#: inc/admin/views/statistics/general.php:49
+msgid "To"
+msgstr ""
+
+#: inc/admin/views/statistics/users.php:19
+#: inc/admin/views/statistics/orders.php:19
+#: inc/admin/views/statistics/courses.php:18
+#: inc/admin/views/statistics/general.php:33
+msgid "Last 7 Days"
+msgstr ""
+
+#: inc/admin/settings/class-lp-settings-profile.php:89
+msgid "Target link"
+msgstr ""
+
+#: inc/admin/settings/class-lp-settings-payments.php:127
+msgid "Endpoints"
+msgstr ""
+
+#: inc/admin/settings/class-lp-settings-profile.php:65
+msgid "Add link to admin bar"
+msgstr ""
+
+#: inc/admin/settings/class-lp-settings-pages.php:28
+msgid "Become a teacher"
+msgstr ""
+
+#: inc/admin/settings/class-lp-settings-profile.php:71
+msgid "Text link"
+msgstr ""
+
+#: templates/profile/tabs/quizzes.php:38 inc/course/lp-course-functions.php:582
+#: inc/custom-post-types/question.php:337 inc/custom-post-types/quiz.php:92
+#: inc/lp-template-functions.php:2661
+#: inc/admin/settings/class-lp-settings-courses.php:157
+#: inc/lp-core-functions.php:377
+msgid "Quiz"
+msgstr ""
+
+#: inc/admin/settings/class-lp-settings-general.php:78
+#: inc/admin/views/setup/steps/currency.php:56
+msgid "Decimals Separator"
+msgstr ""
+
+#: inc/admin/settings/class-lp-settings-general.php:84
+#: inc/admin/views/setup/steps/currency.php:61
+msgid "Number of Decimals"
+msgstr ""
+
+#: inc/admin/settings/class-lp-settings-advanced.php:213
+msgid "Debug mode"
+msgstr ""
+
+#: inc/admin/settings/class-lp-settings-profile.php:22
+#: inc/admin/class-lp-admin.php:308 inc/admin/views/setup/steps/pages.php:31
+msgid "Profile"
+msgstr ""
+
+#: inc/admin/settings/class-lp-settings-general.php:65
+#: inc/admin/views/setup/steps/currency.php:37
+msgid "Currency position"
+msgstr ""
+
+#: inc/admin/settings/class-lp-settings-general.php:72
+#: inc/admin/views/setup/steps/currency.php:51
+msgid "Thousands Separator"
+msgstr ""
+
+#: inc/admin/settings/class-lp-settings-profile.php:59
+msgid "Profile page"
+msgstr ""
+
+#: inc/admin/settings/class-lp-settings-pages.php:45
+msgid "Instructors registration"
+msgstr ""
+
+#: inc/custom-post-types/course.php:145
+#: inc/admin/settings/class-lp-settings-courses.php:24
+msgctxt "slug"
+msgid "courses"
+msgstr ""
+
+#: inc/admin/settings/class-lp-settings-courses.php:38
+#: inc/admin/meta-box/fields/course-permalink.php:36
+#: inc/admin/views/settings/fields/course-permalink.php:14
+msgctxt "default-slug"
+msgid "courses"
+msgstr ""
+
+#: inc/admin/settings/class-lp-settings-pages.php:46
+msgid "Create option for instructors registration."
+msgstr ""
+
+#: inc/lp-template-functions.php:2332
+#: inc/admin/settings/class-lp-settings-checkout.php:76
+#: inc/admin/settings/class-lp-settings-payments.php:131
+msgid "Order received"
+msgstr ""
+
+#: inc/admin/settings/class-lp-settings-courses.php:144
+msgid "Single course permalink"
+msgstr ""
+
+#: inc/admin/settings/class-lp-settings-courses.php:132
+msgid "Course category base"
+msgstr ""
+
+#: inc/admin/settings/class-lp-settings-courses.php:138
+msgid "Course tag base"
+msgstr ""
+
+#: inc/admin/settings/class-lp-settings-courses.php:126
+msgid "Single course"
+msgstr ""
+
+#: inc/admin/settings/class-lp-settings-courses.php:104
+msgid "Courses Page"
+msgstr ""
+
+#: inc/admin/settings/class-lp-settings-emails.php:64
+msgid "General options"
+msgstr ""
+
+#: inc/admin/settings/class-lp-settings-general.php:52
+#: inc/admin/settings/class-lp-settings-general.php:57
+#: inc/admin/class-lp-setup-wizard.php:211
+#: inc/admin/views/setup/steps/currency.php:17
+#: inc/admin/views/setup/steps/currency.php:21
+msgid "Currency"
+msgstr ""
+
+#: inc/admin/settings/class-lp-settings-checkout.php:66
+#: inc/admin/settings/class-lp-settings-payments.php:81
+msgid "Checkout page"
+msgstr ""
+
+#: inc/admin/pointers/pointers.php:66
+msgid "Course Curriculum"
+msgstr ""
+
+#: inc/lp-core-functions.php:2575
+msgid "Enable cart"
+msgstr ""
+
+#: inc/lp-core-functions.php:2582
+msgid "Add to cart redirect"
+msgstr ""
+
+#: inc/lp-core-functions.php:2589
+msgid "AJAX add to cart"
+msgstr ""
+
+#: inc/lp-core-functions.php:2596
+msgid "Cart page"
+msgstr ""
+
+#: inc/admin/settings/class-lp-settings-checkout.php:72
+msgid "Checkout Endpoints"
+msgstr ""
+
+#: inc/admin/lp-admin-functions.php:1438
+msgid "Import now"
+msgstr ""
+
+#: inc/admin/lp-admin-functions.php:1439
+msgid "No, thanks!"
+msgstr ""
+
+#: inc/admin/lp-admin-functions.php:1436
+msgid "LearnPress Import/Export"
+msgstr ""
+
+#: inc/admin/lp-admin-functions.php:1434
+msgid "You haven't got any courses yet! Would you like to import sample data?"
+msgstr ""
+
+#: inc/admin/lp-admin-functions.php:1437
+msgid "but don't worry because it is completely automated."
+msgstr ""
+
+#: inc/admin/views/meta-boxes/course/review-log.php:31
+msgid "Submit for Review"
+msgstr ""
+
+#: inc/admin/lp-admin-functions.php:1257
+msgid "Free Courses / Priced Courses"
+msgstr ""
+
+#: templates/emails/order-items-table.php:66
+#: templates/profile/tabs/quizzes.php:37
+#: templates/profile/tabs/courses/purchased.php:38
+#: templates/profile/tabs/courses.php:32 templates/checkout/review-order.php:32
+#: templates/order/order-details.php:28 inc/custom-post-types/quiz.php:382
+#: inc/custom-post-types/abstract.php:561
+#: inc/admin/sub-menus/class-lp-submenu-tools.php:22
+#: inc/admin/meta-box/fields/course-permalink.php:47
+#: inc/admin/views/settings/fields/course-permalink.php:31
+#: inc/admin/views/statistics/orders.php:47 inc/admin/lp-admin-functions.php:44
+msgid "Course"
+msgstr ""
+
+#: inc/admin/lp-admin-functions.php:32
+msgid "Duplicate this course"
+msgstr ""
+
+#: inc/admin/lp-admin-functions.php:1256
+msgid "Pending Courses / Publish Courses"
+msgstr ""
+
+#: inc/admin/settings/class-lp-settings-emails.php:26
+#: inc/admin/settings/class-lp-settings-emails.php:166
+#: inc/admin/class-lp-setup-wizard.php:225
+msgid "Emails"
+msgstr ""
+
+#: inc/admin/settings/class-lp-settings-checkout.php:22
+#: inc/admin/class-lp-admin.php:246 inc/admin/class-lp-admin.php:309
+#: inc/admin/views/setup/steps/pages.php:40
+msgid "Checkout"
+msgstr ""
+
+#: inc/admin/settings/class-lp-settings-payments.php:28
+#: inc/admin/settings/class-lp-settings-payments.php:143
+msgid "Payments"
+msgstr ""
+
+#: inc/admin/settings/class-lp-settings-pages.php:16
+msgid "Pages"
+msgstr ""
+
+#: inc/class-lp-install.php:516
+msgid "Ok"
+msgstr ""
+
+#: inc/admin/lp-admin-functions.php:223
+msgid "Select a page&hellip;"
+msgstr ""
+
+#: inc/user/class-lp-profile.php:331 inc/custom-post-types/course.php:578
+#: inc/admin/settings/class-lp-settings-general.php:16
+#: inc/admin/settings/class-lp-settings-general.php:40
+#: inc/admin/settings/class-lp-settings-checkout.php:36
+#: inc/admin/settings/class-lp-settings-profile.php:54
+#: inc/admin/settings/class-lp-settings-courses.php:66
+#: inc/admin/settings/class-lp-settings-payments.php:55
+#: inc/admin/sub-menus/class-lp-submenu-statistics.php:26
+msgid "General"
+msgstr ""
+
+#: inc/admin/lp-admin-functions.php:183
+msgid "[ Add a new page ]"
+msgstr ""
+
+#: inc/admin/lp-admin-functions.php:206
+msgid "Select Page"
+msgstr ""
+
+#: inc/admin/class-lp-upgrader.php:30
+msgid "Disabling Maintenance mode&#8230;"
+msgstr ""
+
+#: inc/admin/class-lp-upgrader.php:29
+msgid "Enabling Maintenance mode&#8230;"
+msgstr ""
+
+#: inc/admin/class-lp-upgrader.php:27
+msgid "The package could not be installed."
+msgstr ""
+
+#: inc/admin/class-lp-upgrader.php:26
+msgid "Could not create directory."
+msgstr ""
+
+#: inc/admin/class-lp-upgrader.php:25
+msgid "Destination folder already exists."
+msgstr ""
+
+#: inc/admin/class-lp-upgrader.php:24
+msgid "The package contains no files."
+msgstr ""
+
+#: inc/admin/class-lp-upgrader.php:23
+msgid "Installing the latest version&#8230;"
+msgstr ""
+
+#: inc/admin/class-lp-upgrader.php:22
+msgid "Download failed."
+msgstr ""
+
+#: inc/admin/class-lp-upgrader.php:18
+msgid "Unable to locate WordPress Theme directory."
+msgstr ""
+
+#: inc/admin/class-lp-upgrader.php:17
+msgid "Unable to locate WordPress Plugin directory."
+msgstr ""
+
+#: inc/admin/class-lp-upgrader.php:16
+msgid "Unable to locate WordPress Content directory (wp-content)."
+msgstr ""
+
+#: inc/admin/class-lp-upgrader.php:15
+msgid "Unable to locate WordPress Root directory."
+msgstr ""
+
+#: inc/admin/class-lp-upgrader.php:14
+msgid "Filesystem error."
+msgstr ""
+
+#: inc/admin/class-lp-upgrader.php:13
+msgid "Could not access filesystem."
+msgstr ""
+
+#: inc/user/class-lp-profile.php:300 inc/custom-post-types/course.php:132
+#: inc/custom-post-types/course.php:134 inc/lp-template-functions.php:1321
+#: inc/admin/settings/class-lp-settings-profile.php:149
+#: inc/admin/settings/class-lp-settings-profile.php:274
+#: inc/admin/settings/class-lp-settings-courses.php:12
+#: inc/admin/lp-admin-actions.php:206
+#: inc/admin/sub-menus/class-lp-submenu-statistics.php:21
+#: inc/admin/sub-menus/class-lp-submenu-statistics.php:28
+#: inc/admin/class-lp-admin.php:307 inc/admin/views/setup/steps/pages.php:22
+#: inc/admin/views/tools/course/html-user.php:30
+msgid "Courses"
+msgstr ""
+
+#: inc/admin/class-lp-upgrader.php:12
+msgid "Invalid Data provided."
+msgstr ""
+
+#: inc/admin/class-lp-plugin-install-list-table.php:475
+#: inc/admin/views/addons/html-loop-plugin.php:59
+msgid "<strong>Compatible</strong> with your version of WordPress"
+msgstr ""
+
+#: inc/admin/class-lp-plugin-install-list-table.php:473
+#: inc/admin/views/addons/html-loop-plugin.php:57
+msgid "<strong>Incompatible</strong> with your version of WordPress"
+msgstr ""
+
+#: inc/admin/class-lp-plugin-install-list-table.php:471
+#: inc/admin/views/addons/html-loop-plugin.php:55
+msgid "Untested with your version of WordPress"
+msgstr ""
+
+#: inc/admin/class-lp-plugin-install-list-table.php:461
+msgctxt "Active plugin installs"
+msgid "1+ Million"
+msgstr ""
+
+#: inc/admin/class-lp-plugin-install-list-table.php:465
+msgid "%s Active Installs"
+msgstr ""
+
+#: inc/order/class-lp-order.php:148 inc/user-item/class-lp-user-item.php:159
+#: inc/custom-post-types/order.php:839
+#: inc/admin/class-lp-plugin-install-list-table.php:455
+msgid "%s ago"
+msgstr ""
+
+#: inc/admin/class-lp-plugin-install-list-table.php:454
+msgid "Last Updated:"
+msgstr ""
+
+#: inc/admin/class-lp-plugin-install-list-table.php:425
+msgid "Not Install"
+msgstr ""
+
+#: inc/admin/class-lp-plugin-install-list-table.php:422
+msgid "Disabled"
+msgstr ""
+
+#: inc/admin/class-lp-plugin-install-list-table.php:376
+msgctxt "plugin"
+msgid "Enabled"
+msgstr ""
+
+#: inc/admin/class-lp-plugin-install-list-table.php:378
+msgctxt "plugin"
+msgid "Enable"
+msgstr ""
+
+#: inc/admin/class-lp-plugin-install-list-table.php:420
+msgid "Enabled"
+msgstr ""
+
+#. translators: 1: Plugin name and version
+#: inc/admin/helpers/class-lp-plugins-helper.php:245
+#: inc/admin/class-lp-plugin-install-list-table.php:369
+#: inc/admin/views/updates/0.9/step-repair-database.php:17
+#: inc/admin/views/updates/html-update-message.php:17
+msgid "Update Now"
+msgstr ""
+
+#. translators: 1: Plugin name and version.
+#: inc/admin/class-lp-plugin-install-list-table.php:362
+msgid "Install and Active"
+msgstr ""
+
+#. translators: 1: Plugin name and version.
+#: inc/admin/helpers/class-lp-plugins-helper.php:238
+#: inc/admin/class-lp-plugin-install-list-table.php:362
+msgid "Install %s now"
+msgstr ""
+
+#. translators: 1: Plugin name and version
+#: inc/admin/helpers/class-lp-plugins-helper.php:245
+#: inc/admin/class-lp-plugin-install-list-table.php:369
+msgid "Update %s now"
+msgstr ""
+
+#: inc/admin/class-lp-plugin-install-list-table.php:298
+msgctxt "Plugin installer group title"
+msgid "Tools"
+msgstr ""
+
+#: inc/admin/class-lp-plugin-install-list-table.php:341
+msgid "By %s"
+msgstr ""
+
+#: inc/admin/class-lp-plugin-install-list-table.php:296
+msgctxt "Plugin installer group title"
+msgid "Performance"
+msgstr ""
+
+#: inc/admin/class-lp-plugin-install-list-table.php:297
+msgctxt "Plugin installer group title"
+msgid "Social"
+msgstr ""
+
+#: inc/class-lp-multi-language.php:54
+#: inc/admin/sub-menus/class-lp-submenu-addons.php:15
+msgid "Add-ons"
+msgstr ""
+
+#: inc/admin/sub-menus/class-lp-submenu-statistics.php:15
+msgid "Statistics"
+msgstr ""
+
+#. Plugin Name of the plugin
+#: inc/class-lp-gdpr.php:31 inc/admin/settings/class-lp-settings-emails.php:161
+#: inc/admin/class-lp-admin.php:122 inc/admin/class-lp-admin.php:124
+#: inc/admin/class-lp-admin-menu.php:90 inc/admin/lp-admin-functions.php:1517
+msgid "LearnPress"
+msgstr ""
+
+#: inc/admin/sub-menus/class-lp-submenu-settings.php:15
+msgid "LearnPress Settings"
+msgstr ""
+
+#: inc/admin/class-lp-admin-menu.php:89
+msgid "Learning Management System"
+msgstr ""
+
+#: inc/admin/class-lp-admin-ajax.php:945
+msgid "View courses"
+msgstr ""
+
+#: templates/checkout/form-login.php:103 inc/class-lp-assets.php:62
+#: inc/class-lp-install.php:516 inc/order/class-lp-order.php:936
+#: inc/custom-post-types/course.php:862 inc/admin/class-lp-admin-ajax.php:920
+#: inc/admin/class-lp-admin.php:245 inc/lp-core-functions.php:2291
+#: inc/lp-core-functions.php:3384
+msgid "Cancel"
+msgstr ""
+
+#: inc/admin/class-lp-admin-ajax.php:870 inc/admin/class-lp-admin-ajax.php:1043
+#: inc/admin/lp-admin-functions.php:255
+msgid "View Page"
+msgstr ""
+
+#: inc/admin/class-lp-modal-search-items.php:250
+#: inc/admin/class-lp-modal-search-users.php:184
+msgid "No item found"
+msgstr ""
+
+#: inc/admin/class-lp-admin-ajax.php:645
+msgid "Permission denied"
+msgstr ""
+
+#: inc/admin/class-lp-admin-ajax.php:869 inc/admin/class-lp-admin-ajax.php:1041
+#: inc/admin/lp-admin-functions.php:253
+msgid "Edit Page"
+msgstr ""
+
+#: inc/custom-post-types/question.php:195
+msgid "No questions found"
+msgstr ""

@@ -1,0 +1,6 @@
+2020-10-15T04:51:54+00:00 CRITICAL Maximum execution time of 120 seconds exceeded في C:\xampp\htdocs\kof-live\wp-content\plugins\the-events-calendar\src\functions\template-tags\loop.php في السطر 9
+
+2020-10-15T05:13:39+00:00 CRITICAL Maximum execution time of 120 seconds exceeded في C:\xampp\htdocs\kof-live\wp-includes\widgets\class-wp-widget-pages.php في السطر 17
+
+2020-10-15T05:13:45+00:00 CRITICAL Maximum execution time of 120 seconds exceeded في C:\xampp\htdocs\kof-live\wp-content\plugins\acfml\classes\class-wpml-acf-field-annotations.php في السطر 2
+

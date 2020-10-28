@@ -1,0 +1,8 @@
+2020-10-16T05:43:19+00:00 CRITICAL Maximum execution time of 120 seconds exceeded في C:\xampp\htdocs\kof-live\wp-includes\widgets\class-wp-nav-menu-widget.php في السطر 17
+
+2020-10-16T05:43:25+00:00 CRITICAL Maximum execution time of 120 seconds exceeded في C:\xampp\htdocs\kof-live\wp-content\plugins\sitepress-multilingual-cms\classes\options\class-wpml-multilingual-options-utils.php في السطر 6
+
+2020-10-16T05:58:59+00:00 CRITICAL Maximum execution time of 120 seconds exceeded في C:\xampp\htdocs\kof-live\wp-content\plugins\yith-woocommerce-social-login\init.php في السطر 137
+
+2020-10-16T07:44:35+00:00 CRITICAL Maximum execution time of 120 seconds exceeded في C:\xampp\htdocs\kof-live\wp-content\plugins\yith-woocommerce-social-login\init.php في السطر 137
+

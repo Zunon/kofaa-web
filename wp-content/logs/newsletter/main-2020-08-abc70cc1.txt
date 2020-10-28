@@ -1,0 +1,2 @@
+13-08-2020 08:51:43 - ERROR - v: 6.8.4 - m: 73.4 MB, u: 1 - cURL error 28: Operation timed out after 5000 milliseconds with 1194 out of 27655 bytes received (http_request_failed) - 
+13-08-2020 08:51:48 - ERROR - v: 6.8.4 - m: 73.4 MB, u: 1 - cURL error 28: Operation timed out after 5000 milliseconds with 7002 out of 27655 bytes received (http_request_failed) - 

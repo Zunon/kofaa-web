@@ -1,0 +1,21 @@
+.swal2-popup .swal2-title
+{
+	font-weight: normal !important;
+	font-size: 21px !important
+}
+.swal2-popup .swal2-styled:focus {
+    box-shadow: none !important;
+}
+.swal2-show {
+    border: none !important;
+
+}
+button.swal2-confirm.swal2-styled
+{
+	    font-size: 14px !important;
+    padding: 5px 25px !important;
+}
+h1:not(.site-title):before, h2#swal2-title:before {
+  content: "" !important;
+  height: 0;
+}

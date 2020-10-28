@@ -1,0 +1,2 @@
+2020-08-21T08:44:28+00:00 CRITICAL Out of memory (allocated 27262976) (tried to allocate 20480 bytes) in C:\xampp\htdocs\kof\wp-includes\class-wp-hook.php on line 78
+

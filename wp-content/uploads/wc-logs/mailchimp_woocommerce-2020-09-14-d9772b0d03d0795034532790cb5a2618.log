@@ -1,0 +1,21 @@
+2020-09-14T09:46:35+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 5
+2020-09-14T09:46:46+00:00 NOTICE member.sync :: Updated Member pooja.developer48@gmail.com ( merge fields only ) :: Array
+(
+    [merge_fields] => Array
+        (
+            [FNAME] => Pooja
+            [LNAME] => Gupta
+        )
+
+)
+
+2020-09-14T10:31:07+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 755
+2020-09-14T10:31:26+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 753
+2020-09-14T10:31:43+00:00 NOTICE product_submit.success :: updateStoreProduct :: #755
+2020-09-14T10:32:04+00:00 NOTICE product_submit.success :: updateStoreProduct :: #753
+2020-09-14T10:32:58+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 755
+2020-09-14T10:33:18+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 753
+2020-09-14T10:33:19+00:00 NOTICE product_submit.success :: updateStoreProduct :: #755
+2020-09-14T10:35:09+00:00 NOTICE product_submit.success :: updateStoreProduct :: #753
+2020-09-14T10:35:18+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 749
+2020-09-14T10:37:15+00:00 NOTICE product_submit.success :: updateStoreProduct :: #749

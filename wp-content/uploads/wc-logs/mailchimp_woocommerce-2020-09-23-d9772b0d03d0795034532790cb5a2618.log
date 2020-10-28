@@ -1,0 +1,11 @@
+2020-09-23T12:06:27+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 911
+2020-09-23T12:06:43+00:00 NOTICE product_submit.success :: updateStoreProduct :: #911
+2020-09-23T12:09:41+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 910
+2020-09-23T12:09:58+00:00 NOTICE product_submit.success :: updateStoreProduct :: #910
+2020-09-23T12:10:26+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 909
+2020-09-23T12:11:18+00:00 NOTICE product_submit.success :: updateStoreProduct :: #909
+2020-09-23T12:14:07+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 910
+2020-09-23T12:14:26+00:00 NOTICE product_submit.success :: updateStoreProduct :: #910
+2020-09-23T12:45:36+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id 695f018835a80a54ead6d26bbd28fff1
+2020-09-23T12:45:56+00:00 NOTICE abandoned_cart.success :: email: pooja.developer48@gmail.com :: checkout_url: http://localhost/kof-live/checkout/?mc_cart_id=695f018835a80a54ead6d26bbd28fff1
+2020-09-23T12:45:57+00:00 NOTICE cart.member.updated :: Updated pooja.developer48@gmail.com subscriber status to subscribed and language to en

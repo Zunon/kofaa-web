@@ -1,0 +1,55 @@
+2020-09-28T04:23:54+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id 3a63456c1909b69fe27ff96a87b7c5ca
+2020-09-28T04:25:15+00:00 NOTICE abandoned_cart.success :: email: annu.sehrawat@oodlestechnologies.com :: checkout_url: http://localhost/kof-live/checkout/?mc_cart_id=3a63456c1909b69fe27ff96a87b7c5ca
+2020-09-28T04:25:17+00:00 NOTICE cart.member.updated :: Updated annu.sehrawat@oodlestechnologies.com subscriber status to transactional and language to ar
+2020-09-28T04:54:16+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id 3a63456c1909b69fe27ff96a87b7c5ca
+2020-09-28T04:54:55+00:00 NOTICE abandoned_cart.success :: email: annu.sehrawat@oodlestechnologies.com :: checkout_url: http://localhost/kof-live/checkout/?mc_cart_id=3a63456c1909b69fe27ff96a87b7c5ca
+2020-09-28T05:26:44+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 1104
+2020-09-28T05:28:04+00:00 NOTICE ac.cart_swap :: Deleted cart [annu.sehrawat@oodlestechnologies.com] :: ID [3a63456c1909b69fe27ff96a87b7c5ca]
+2020-09-28T05:28:06+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id acab5776a3e1341ef2016a3ab35e8120
+2020-09-28T05:28:11+00:00 NOTICE abandoned_cart.success :: email: pooja@gmail.com :: checkout_url: http://localhost/kof-live/checkout/?mc_cart_id=acab5776a3e1341ef2016a3ab35e8120
+2020-09-28T05:28:13+00:00 NOTICE cart.member.updated :: Updated pooja@gmail.com subscriber status to transactional and language to en
+2020-09-28T05:28:27+00:00 NOTICE order_sumbit :: #1104 has a financial status of pending and was skipped.
+2020-09-28T05:29:18+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 1105
+2020-09-28T05:31:18+00:00 NOTICE order_sumbit :: #1105 has a financial status of pending and was skipped.
+2020-09-28T05:31:19+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 1104
+2020-09-28T05:31:33+00:00 NOTICE debug :: Order ID 1104 was pending and is now processing :: Array
+(
+    [new_order] => 1
+    [tracking] => Array
+        (
+            [campaign_id] => 
+            [landing_site] => http://localhost/kof-live/kof-live/wp-admin/index.php?namespace=LPCurriculumRequest
+        )
+
+)
+
+2020-09-28T05:32:37+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id 3a63456c1909b69fe27ff96a87b7c5ca
+2020-09-28T05:33:10+00:00 ERROR order_submit.error :: addStoreOrder :: #1104 :: Error Code 400 :: <p>order_url: That is not a valid URL: http://localhost/kof-live/my-account/view-order/1104/</p> on 1833 in E:\xampp\htdocs\kof-live\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2020-09-28T05:33:27+00:00 NOTICE abandoned_cart.success :: email: annu.sehrawat@oodlestechnologies.com :: checkout_url: http://localhost/kof-live/checkout/?lang=ar&mc_cart_id=3a63456c1909b69fe27ff96a87b7c5ca
+2020-09-28T05:33:29+00:00 NOTICE cart.member.updated :: Updated annu.sehrawat@oodlestechnologies.com subscriber status to transactional and language to en
+2020-09-28T05:40:12+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id 3a63456c1909b69fe27ff96a87b7c5ca
+2020-09-28T05:40:43+00:00 NOTICE abandoned_cart.success :: email: annu.sehrawat@oodlestechnologies.com :: checkout_url: http://localhost/kof-live/checkout/?lang=ar&mc_cart_id=3a63456c1909b69fe27ff96a87b7c5ca
+2020-09-28T05:41:33+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 1106
+2020-09-28T05:43:25+00:00 NOTICE order_sumbit :: #1106 has a financial status of pending and was skipped.
+2020-09-28T05:44:04+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 1106
+2020-09-28T05:44:18+00:00 NOTICE debug :: Order ID 1106 was pending and is now processing :: Array
+(
+    [new_order] => 1
+    [tracking] => Array
+        (
+            [campaign_id] => 
+            [landing_site] => http://localhost/kof-live/kof-live/?wc-ajax=get_refreshed_fragments
+        )
+
+)
+
+2020-09-28T05:46:41+00:00 ERROR order_submit.error :: addStoreOrder :: #1106 :: Error Code 400 :: <p>order_url: That is not a valid URL: http://localhost/kof-live/my-account/view-order/1106/</p> on 1833 in E:\xampp\htdocs\kof-live\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2020-09-28T07:32:02+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 1105
+2020-09-28T07:32:04+00:00 NOTICE debug :: Order ID 1105 was pending and is now cancelled :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2020-09-28T07:34:40+00:00 NOTICE order_sumbit :: #1105 has a financial status of cancelled and was skipped.
+2020-09-28T08:56:35+00:00 NOTICE ac.cart_swap :: Deleted cart [annu.sehrawat@oodlestechnologies.com] :: ID [3a63456c1909b69fe27ff96a87b7c5ca]

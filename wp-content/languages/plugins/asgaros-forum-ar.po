@@ -1,0 +1,2153 @@
+# Translation of Plugins - Asgaros Forum - Stable (latest release) in Arabic
+# This file is distributed under the same license as the Plugins - Asgaros Forum - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-08-18 06:05:30+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n == 0) ? 0 : ((n == 1) ? 1 : ((n == 2) ? 2 : ((n % 100 >= 3 && n % 100 <= 10) ? 3 : ((n % 100 >= 11 && n % 100 <= 99) ? 4 : 5))));\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ar\n"
+"Project-Id-Version: Plugins - Asgaros Forum - Stable (latest release)\n"
+
+#: admin/views/options.php:402
+msgid "Title Separator"
+msgstr "فاصل العنوان"
+
+#: admin/admin.php:43
+msgid "URLs & SEO"
+msgstr "روابط URL & تحسين البحث SEO"
+
+#: admin/views/options.php:403
+msgid "Allows you to define a custom title-separator for the forum. This setting is useful when different title-separators are shown in parts of the title - which is a common problem when using other SEO plugins."
+msgstr "يسمح لك بتعيين فاصل عنوان مخصص للمنتدى. هذا الإعداد مفيد عندما يتم عرض فواصل عناوين مختلفة في أجزاء من العنوان، وهي مشكلة شائعة عند استخدام مكونات SEO الإضافية."
+
+#: admin/admin.php:577
+msgid "Forum Posts"
+msgstr "مشاركات المنتدى"
+
+#: includes/forum-activity.php:82
+msgid "%s replied in %s."
+msgstr "%s قام بالرد في %s."
+
+#: includes/forum.php:983 widgets/widget-recent-topics.php:99
+msgid "%s Reply"
+msgid_plural "%s Replies"
+msgstr[0] "%s رد"
+msgstr[1] "%s رد"
+msgstr[2] "%s من الردود"
+msgstr[3] "%s ردود"
+msgstr[4] "%s رد"
+msgstr[5] "%s من الردود"
+
+#: includes/forum.php:280
+msgid "New reply: ###TITLE###"
+msgstr "رد جديد: ###TITLE###"
+
+#: admin/views/options.php:471
+msgid "Users can close their own topics"
+msgstr "يمكن للأعضاء إغلاق المواضيع الخاصة بهم"
+
+#: admin/views/options.php:466
+msgid "Users can open their own topics"
+msgstr "يمكن للأعضاء فتح المواضيع الخاصة بهم"
+
+#: admin/views/options.php:250
+msgid "Show newest member"
+msgstr "إظهار العضو الأحدث"
+
+#: widgets/widget-recent-posts.php:140
+msgid "Recent Forum Posts"
+msgstr "أحدث مشاركات المنتدى"
+
+#: widgets/widget-recent-topics.php:134
+msgid "Recent Forum Topics"
+msgstr "أحدث مواضيع المنتدى"
+
+#: includes/forum.php:2368
+msgid "Create Forum Topic"
+msgstr "إنشاء موضوع منتدى"
+
+#: widgets/widget-recent-topics.php:177 widgets/widget-recent-posts.php:189
+msgid "Forum filter:"
+msgstr "تصفية المنتدى:"
+
+#: includes/forum.php:2405
+msgid "A topic is created in the selected forum when you save this document."
+msgstr "يتم إنشاء موضوع في المنتدى المحدد عند حفظ هذا المستند."
+
+#: admin/admin.php:99
+msgid "Reputation"
+msgstr "السمعة"
+
+#: admin/views/options.php:867
+msgid "Level 5"
+msgstr "المستوى 5"
+
+#: admin/views/options.php:863
+msgid "Level 4"
+msgstr "المستوى 4"
+
+#: admin/views/options.php:859
+msgid "Level 3"
+msgstr "المستوى 3"
+
+#: admin/views/options.php:855
+msgid "Level 2"
+msgstr "المستوى 2"
+
+#: admin/views/options.php:851
+msgid "Level 1"
+msgstr "المستوى 1"
+
+#: admin/views/options.php:846
+msgid "Minimum amount of posts:"
+msgstr "الحد الأدنى من المشاركات:"
+
+#: admin/views/options.php:841
+msgid "Enable Reputation"
+msgstr "تمكين السمعة"
+
+#: integrations/integration-mycred.php:421
+msgid "Received Like"
+msgstr "إعجاب مُتلقى"
+
+#: integrations/integration-mycred.php:370
+msgid "New Post"
+msgstr "مشاركة جديدة"
+
+#: integrations/integration-mycred.php:345
+#: integrations/integration-mycred.php:363
+#: integrations/integration-mycred.php:387
+#: integrations/integration-mycred.php:414
+#: integrations/integration-mycred.php:432
+#: integrations/integration-mycred.php:450
+msgid "required"
+msgstr "مطلوب"
+
+#: integrations/integration-mycred.php:161
+msgid "Rank:"
+msgstr "الترتيب:"
+
+#: integrations/integration-mycred.php:143
+msgid "Badges:"
+msgstr "الشارات:"
+
+#: integrations/integration-mycred.php:338
+#: integrations/integration-mycred.php:380
+msgid "Limit"
+msgstr "الحدّ"
+
+#: integrations/integration-mycred.php:352
+msgid "Deleted Topic"
+msgstr "الموضوع محذوف"
+
+#: integrations/integration-mycred.php:403
+msgid "Deleted Post"
+msgstr "المشاركة محذوفة"
+
+#: admin/views/options.php:315
+msgid "Custom Login URL"
+msgstr "رابط مخصص لتسجيل الدخول "
+
+#: admin/views/options.php:322
+msgid "Custom Register URL"
+msgstr "رابط مخصص للتسجيل "
+
+#: admin/views/options.php:316
+msgid "You can use this option if you are using a custom login page."
+msgstr "يمكنك استخدام هذا الخيار إذا كنت تستخدم صفحة تسجيل دخول مخصصة."
+
+#: admin/views/options.php:323
+msgid "You can use this option if you are using a custom register page."
+msgstr "يمكنك استخدام هذا الخيار إذا كنت تستخدم صفحة تسجيل مخصصة."
+
+#: integrations/integration-mycred.php:439
+msgid "Received Dislike"
+msgstr "عدم إعجاب مُتلقى "
+
+#: integrations/integration-mycred.php:464
+msgid "Show badges in posts and profiles"
+msgstr "إظهار الشارات في المشاركات والملفات الشخصية"
+
+#: integrations/integration-mycred.php:461
+msgid "Show %_plural% in posts and profiles"
+msgstr "إظهار %_plural% في المشاركات والملفات الشخصية"
+
+#: integrations/integration-mycred.php:467
+msgid "Show ranks in posts and profiles"
+msgstr "إظهار الترتيب في المشاركات والملف الشخصي"
+
+#: integrations/integration-mycred.php:13
+msgid "Received Dislikes (Asgaros Forum)"
+msgstr "إبداءات عدم الإعجاب المتلقاة (منتدى Asgaros)"
+
+#: integrations/integration-mycred.php:10
+msgid "Forum Topics (Asgaros Forum)"
+msgstr "مواضيع المنتدى (منتدى Asgaros)"
+
+#: integrations/integration-mycred.php:11
+msgid "Forum Posts (Asgaros Forum)"
+msgstr "مشاركات المنتدى (منتدى Asgaros)"
+
+#: integrations/integration-mycred.php:12
+msgid "Received Likes (Asgaros Forum)"
+msgstr "إبداءات الإعجاب المتلقاة (منتدى Asgaros)"
+
+#: integrations/integration-mycred.php:396
+msgid "Topic authors can receive %_plural% for replying to their own topic."
+msgstr "كُتّاب المواضيع يمكنهم استلام %_plural% للرد على موضوعهم الخاص."
+
+#: integrations/integration-mycred.php:64
+msgid "%singular% deduction for received forum post dislike"
+msgstr "%singular% مخصومة بسبب إبداءات عدم الإعجاب المتلقاة في مشاركات المنتدى"
+
+#: integrations/integration-mycred.php:60
+msgid "%plural% for received forum post like"
+msgstr "%plural% لإبداءات الإعجاب المتلقاة في مشاركات المنتدى"
+
+#: integrations/integration-mycred.php:56
+msgid "%singular% deduction for deleted forum post"
+msgstr "%singular% مخصومة بسبب مشاركات محذوفة من المنتدى"
+
+#: integrations/integration-mycred.php:46
+msgid "%singular% deduction for deleted forum topic"
+msgstr "%singular% مخصومة بسبب مواضيع محذوفة من المنتدى"
+
+#: integrations/integration-mycred.php:50
+msgid "%plural% for new forum post"
+msgstr "%plural% للمشاركة الجديدة في المنتدى"
+
+#: integrations/integration-mycred.php:41
+msgid "%plural% for new forum topic"
+msgstr "%plural% للموضوع الجديد في المنتدى"
+
+#: integrations/integration-mycred.php:21
+msgid "Awards %_plural% for Asgaros Forum actions."
+msgstr "مكافأة %_plural% جزاءً لعملك في المنتدى"
+
+#: integrations/integration-mycred.php:344
+#: integrations/integration-mycred.php:362
+#: integrations/integration-mycred.php:386
+#: integrations/integration-mycred.php:413
+#: integrations/integration-mycred.php:431
+#: integrations/integration-mycred.php:449
+msgid "Log template"
+msgstr "قالب السجل"
+
+#: admin/views/options.php:60
+msgid "The description is used for meta tags."
+msgstr "يُستخدم الوصف للعلامات الوصفية."
+
+#: admin/views/options.php:59
+msgid "Forum description:"
+msgstr "وصف المنتدى:"
+
+#: includes/forum-uploads.php:273
+msgid "Allowed file types:"
+msgstr "أنواع الملفات المسموحة:"
+
+#: includes/forum-uploads.php:267
+msgid "Maximum file size:"
+msgstr "الحد الأقصى لحجم الملف:"
+
+#: includes/forum-uploads.php:260
+msgid "Maximum files:"
+msgstr "الحد الأقصى للملفات:"
+
+#: admin/views/options.php:592
+msgid "Available filters"
+msgstr "التصفيات المتاحة"
+
+#: admin/views/options.php:558
+msgid "Enable Suggestions"
+msgstr "تمكين الاقتراحات"
+
+#: admin/views/options.php:799
+msgid "Results visible without vote"
+msgstr "النتائج مرئية بدون تصويت"
+
+#: admin/views/options.php:750
+msgid "Activities per page:"
+msgstr "الأنشطة في كل صفحة:"
+
+#: includes/forum-memberslist.php:105
+msgid "All Users"
+msgstr "كل الأعضاء"
+
+#: admin/views/options.php:458
+msgid "Time limitation for deleting topics (in minutes):"
+msgstr "الحد الزمني لحذف المواضيع (بالدقائق):"
+
+#: admin/views/options.php:441
+msgid "Time limitation for deleting posts (in minutes):"
+msgstr "الحد الزمني لحذف المشاركات (بالدقائق):"
+
+#: admin/views/options.php:207
+msgid "Above & Below Topics"
+msgstr "فوق وأسفل المواضيع"
+
+#: admin/views/options.php:206
+msgid "Below Topics"
+msgstr "أسفل المواضيع"
+
+#: admin/views/options.php:205
+msgid "Above Topics"
+msgstr "فوق المواضيع"
+
+#: admin/views/options.php:201
+msgid "Location of subforums:"
+msgstr "مكان المنتديات الفرعية:"
+
+#: admin/admin.php:47
+msgid "Permissions"
+msgstr "الأذونات"
+
+#: admin/views/options.php:432
+msgid "Users can delete their own posts"
+msgstr "يمكن للأعضاء حذف مشاركاتهم"
+
+#: admin/views/options.php:449
+msgid "Users can delete their own topics"
+msgstr "يمكن للأعضاء حذف مواضيعهم"
+
+#: admin/views/options.php:415
+msgid "Users can edit their own posts"
+msgstr "يمكن للأعضاء تعديل مشاركاتهم "
+
+#: admin/admin.php:59
+msgid "Mentioning"
+msgstr "الإشارات"
+
+#: admin/views/appearance.php:84
+msgid "Unread indicator color:"
+msgstr "لون مؤشر غير مقروء:"
+
+#: admin/views/appearance.php:80
+msgid "Read indicator color:"
+msgstr "لون مؤشر مقروء:"
+
+#: admin/views/usergroups.php:30
+msgid "Set an optional icon for the usergroup."
+msgstr "تعيين أيقونة اختيارية لمجموعة العضو."
+
+#: admin/views/options.php:329
+msgid "URL-slugs for views:"
+msgstr "الأسماء اللطيفة للروابط:"
+
+#: admin/views/options.php:715
+msgid "Who can use signatures:"
+msgstr "الذين بإمكانهم استخدام التواقيع:"
+
+#: admin/views/options.php:718
+msgid "Logged in users & Moderators"
+msgstr "الأعضاء والمشرفين المسجلين دخولهم"
+
+#: includes/forum.php:953
+msgid "This topic is closed"
+msgstr "هذا الموضوع مغلق"
+
+#: includes/forum.php:949
+msgid "This topic is sticked"
+msgstr "هذا الموضوع مثبت"
+
+#: includes/forum.php:957
+msgid "This topic contains a poll"
+msgstr "هذا الموضوع يحتوي على استطلاع رأي"
+
+#: admin/views/options.php:270
+msgid "Load Font Awesome v4 compatibility library"
+msgstr "تحميل مكتبة توافق Font Awesome v4"
+
+#: admin/views/options.php:271
+msgid "The Font Awesome v4 compatibility library is required, if your theme or another plugin uses the Font Awesome v4 icon library. If the Font Awesome v4 icon library is not used on your website, you can disable this option."
+msgstr "مكتبة توافق Font Awesome v4 مطلوبة؛ في حال كان قالبك أو إحدى إضافاتك تستخدم مكتبة أيقونات Font Awesome v4. أما إذا كانت مكتبة أيقونات Font Awesome v4 غير مستخدمة في موقعك الإلكتروني، فبإمكانك تعطيل هذا الخيار."
+
+#: includes/forum-polls.php:429
+msgid "%s Vote"
+msgid_plural "%s Votes"
+msgstr[0] "%s صوت"
+msgstr[1] "%s صوت"
+msgstr[2] "%s صوت"
+msgstr[3] "%s أصوات"
+msgstr[4] "%s صوت"
+msgstr[5] "%s صوت"
+
+#: includes/forum-polls.php:454
+msgid "Vote"
+msgstr "تصويت"
+
+#: includes/forum-polls.php:101 includes/forum-polls.php:126
+msgid "An answer ..."
+msgstr "إجابة ..."
+
+#: includes/forum-polls.php:90 includes/forum-polls.php:138
+msgid "Allow multiple answers"
+msgstr "السماح بالإجابات المتعددّة"
+
+#: includes/forum-polls.php:446
+msgid "%s Participant"
+msgid_plural "%s Participants"
+msgstr[0] "%s مشارك"
+msgstr[1] "%s مشارك"
+msgstr[2] "%s من المشاركين"
+msgstr[3] "%s مشاركين"
+msgstr[4] "%s مشارك"
+msgstr[5] "%s مشارك"
+
+#: includes/forum-polls.php:92 includes/forum-polls.php:140
+msgid "Remove Poll"
+msgstr "إزالة استطلاع الرأي"
+
+#: includes/forum-polls.php:84
+msgid "After creating a poll it will be no longer possible to add or remove answers. This ensures the integrity of existing votes. However, it will be still possible to make text-changes to existing answers and to poll-settings. If major changes for a poll are required, you must delete the existing poll and create a new one for this topic."
+msgstr "بعد إنشاء استطلاع للرأي، لن يكون بإمكانك إضافة أو إزالة الإجابات. هذا يضمن سلامة الأصوات القائمة. ومع ذلك، سيظل من الممكن إجراء تغييرات نصية على الإجابات الحالية وإعدادات التصويت. أما إذا كانت التغييرات الرئيسية ضرورية لاستطلاع الرأي، فيجب عليك حذف الاستطلاع الحالي وإنشاء استطلاع جديد لهذا الموضوع."
+
+#: includes/forum-polls.php:132
+msgid "To ensure the integrity of existing votes it is not possible to add or remove answers. However, it is still possible to make text-changes to existing answers and to poll-settings. If major changes for a poll are required, you must delete the existing poll and create a new one for this topic."
+msgstr "لضمان نزاهة الأصوات الحالية ، لا يمكن إضافة أو إزالة الإجابات. ومع ذلك، لا يزال من الممكن إجراء تغييرات نصية على الإجابات الحالية وإعدادات التصويت. أما إذا كانت التغييرات الرئيسية ضرورية لاستطلاع الرأي، فيجب عليك حذف الاستطلاع الحالي وإنشاء استطلاع جديد لهذا الموضوع."
+
+#: includes/forum-polls.php:76
+msgid "Add another answer"
+msgstr "إضافة إجابة أخرى"
+
+#: includes/forum-polls.php:68 includes/forum-polls.php:119
+msgid "Enter your question here"
+msgstr "أضف سؤالك هنا"
+
+#: admin/views/options.php:804
+msgid "Who can create polls:"
+msgstr "الذين بإمكانهم إضافة استطلاع رأي:"
+
+#: admin/views/options.php:794
+msgid "Enable Polls"
+msgstr "تمكين استطلاعات الرأي"
+
+#: admin/admin.php:91
+msgid "Polls"
+msgstr "استطلاعات الرأي"
+
+#: includes/forum-polls.php:63 includes/forum-polls.php:114
+msgid "Add Poll"
+msgstr "إضافة استطلاع الرأي"
+
+#: admin/views/options.php:303
+msgid "URL mode for profiles:"
+msgstr "وضع عنوان URL للملفات الشخصية:"
+
+#: admin/views/options.php:291
+msgid "URL mode for forums & topics:"
+msgstr "وضع عنوان URL للمنتديات والمواضيع:"
+
+#: admin/views/options.php:263
+msgid "Load Font Awesome v5 icon library"
+msgstr "تحميل مكتبة أيقونات Font Awesome v5"
+
+#: admin/views/options.php:823
+msgid "Enable spoilers"
+msgstr "تمكين المحتوى الخاص"
+
+#: admin/admin.php:95
+msgid "Spoilers"
+msgstr "المحتوى الخاص"
+
+#: admin/views/options.php:296 admin/views/options.php:308
+msgid "Slug"
+msgstr "الاسم اللطيف"
+
+#: admin/views/options.php:304
+msgid "Define if the slug or the ID should be used in URLs for profiles. This setting is useful if you want to hide the unique nicename of users from the public."
+msgstr "تحديد ما إذا كان ينبغي استخدام الاسم اللطيف أو المعرّف في عناوين URL للملفات الشخصية. يُعدّ هذا الإعداد مفيدًا إذا كنت تريد إخفاء الاسم الفريد للأعضاء عن العامة."
+
+#: admin/views/options.php:292
+msgid "Define if the slug or the ID should be used in URLs for forums and topics. This setting is useful if you encounter problems when your slugs include special characters."
+msgstr "تحديد ما إذا كان ينبغي استخدام الاسم اللطيف أو المعرّف في عناوين URL للمنتديات والمواضيع. هذا الإعداد مفيد في حال واجهت مشاكل بسبب تضمّن الاسم اللطيف الخاص بك أحرفًا خاصة."
+
+#: admin/views/options.php:264
+msgid "You can disable loading the built-in Font Awesome v5 icon library to reduce traffic if your theme or another plugin already loads this library."
+msgstr "يمكنك تعطيل تحميل مكتبة أيقونات Font Awesome v5 المضمّنة لتقليل الترافيك إذا كان القالب الخاص بك أو كان هناك إضافة أخرى قامت بتحميل المكتبة بالفعل."
+
+#: includes/forum.php:1425 includes/forum.php:1467
+msgid "Last post:"
+msgstr "آخر مشاركة:"
+
+#: includes/forum-profile.php:311
+msgid "Likes Received"
+msgstr "الإعجابات المستلمة"
+
+#: includes/forum-profile.php:295
+msgid "Member Activity"
+msgstr "نشاط العضو"
+
+#: admin/views/options.php:219
+msgid "Enable Avatars"
+msgstr "تمكين الشعارات"
+
+#: includes/forum.php:2193
+msgid "Do not reassign forum posts."
+msgstr "لا تقم بإعادة تعيين مشاركات المنتدى."
+
+#: includes/forum.php:2187
+msgid "What should be done with forum posts owned by these users?"
+msgstr "ما الذي يجب فعله تجاه المشاركات التي يملكها هؤلاء الأعضاء في المنتدى؟"
+
+#: includes/forum.php:2185
+msgid "What should be done with forum posts owned by this user?"
+msgstr "ما الذي يجب فعله تجاه المشاركات التي يملكها هذا العضو في المنتدى؟"
+
+#: includes/forum.php:2196
+msgid "Reassign all forum posts to:"
+msgstr "إعادة تعيين جميع مشاركات المنتدى إلى:"
+
+#: includes/forum-reports.php:252
+msgid "Show Post"
+msgstr "إظهار المشاركة"
+
+#: includes/forum-reports.php:205
+msgid "There are no reports."
+msgstr "لا توجد إبلاغات."
+
+#: includes/forum-reports.php:192
+msgid "There are reports."
+msgstr "توجد إبلاغات."
+
+#: widgets/widget-recent-topics.php:114 widgets/widget-recent-posts.php:120
+msgid "Read More"
+msgstr "اقرأ المزيد"
+
+#: includes/forum.php:1555
+msgid "The topic will be sticked to all forums."
+msgstr "سيتم تثبيت الموضوع في كافة المنتديات."
+
+#: includes/forum.php:1545
+msgid "The topic will be sticked to the current forum."
+msgstr "سيكون الموضوع مثبتًا في المنتدى الحالي."
+
+#: includes/forum-reports.php:217
+msgid "Reported by:"
+msgstr "تم الإبلاغ عنها بواسطة:"
+
+#: includes/forum.php:1552
+msgid "Global Sticky"
+msgstr "تثبيت عام"
+
+#: admin/views/options.php:127
+msgid "Automatically embed content in posts"
+msgstr "تضمين المحتوى تلقائيًا في المشاركات"
+
+#: widgets/widget-recent-topics.php:173 widgets/widget-recent-posts.php:180
+msgid "Show excerpt"
+msgstr "إظهار المقتطف"
+
+#: includes/forum.php:1533
+msgid "Select Sticky Mode:"
+msgstr "اختيار وضع التثبيت:"
+
+#: includes/forum.php:1648
+msgid "Approve"
+msgstr "الموافقة"
+
+#: includes/forum.php:565 includes/forum.php:572 includes/forum.php:593
+msgid "Sorry, you cannot access this area."
+msgstr "عذرًا، أنت لا يمكنك الوصول لهذه الصفحة."
+
+#: includes/forum-approval.php:228
+msgid "There are no unapproved topics."
+msgstr "لا توجد مواضيع لم يتم الموافقة عليها."
+
+#: includes/forum-approval.php:170
+msgid "There are unapproved topics."
+msgstr "توجد مواضيع لم يتم الموافقة عليها."
+
+#: includes/forum-approval.php:93
+msgid "New unapproved topic"
+msgstr "موضوع جديد لم يتم الموافقة عليه"
+
+#: includes/forum-approval.php:18 includes/forum.php:702
+msgid "Unapproved Topics"
+msgstr "مواضيع لم يتم الموافقة عليها"
+
+#: admin/views/options.php:516
+msgid "Enable subscriptions"
+msgstr "تمكين الاشتراكات"
+
+#: admin/views/options.php:194
+msgid "Guests & Normal Users"
+msgstr "الزوار والأعضاء العاديين"
+
+#: admin/views/options.php:193
+msgid "Guests"
+msgstr "الزوار"
+
+#: admin/views/options.php:697
+msgid "Notify receivers of administrative notifications about new reports"
+msgstr "تنبيه المستلمين من الإدارة بإشعارات عن الإبلاغات الجديدة"
+
+#: admin/views/options.php:522
+msgid "Notify receivers of administrative notifications about new topics"
+msgstr "تنبيه المستلمين من الإدارة بإشعارات عن المواضيع الجديدة"
+
+#: includes/forum-notifications.php:526
+msgid "You will automatically get notified about new topics because you are a receiver of administrative notifications."
+msgstr "سيتم إشعارك حال وجود مواضيع جديد تلقائيًا لأنك أحد مستلمي الإشعارات من الإدارة."
+
+#: includes/forum-approval.php:153
+msgid "Thank you for your topic. Your topic will be visible as soon as it gets approved."
+msgstr "شكرًا على مشاركتك. ستظهر المشاركة للجميع فور الموافقة عليها."
+
+#: admin/views/options.php:517
+msgid "The subscription-functionality is only available for logged-in users."
+msgstr "خاصية الاشتراك متاحة للأعضاء المسجلين دخولهم فقط."
+
+#: admin/views/options.php:188
+msgid "Approval needed for new topics from:"
+msgstr "الموافقة مطلوبة للمواضيع الجديدة من:"
+
+#: includes/forum-approval.php:107
+msgid "Hello ###USERNAME###,<br><br>You received this message because there is a new unapproved forum-topic.<br><br>Topic:<br>###TITLE###<br><br>Author:<br>###AUTHOR###<br><br>Text:<br>###CONTENT###<br><br>Link:<br>###LINK###"
+msgstr "مرحبا ###USERNAME###،<br><br>لقد تلقيت هذه الرسالة نظرًا لوجود موضوع جديد لم يتم الموافقة عليه.<br><br>الموضوع:<br>###TITLE###<br><br>الكاتب:<br>###AUTHOR###<br><br>النص:<br>###CONTENT###<br><br>الرابط:<br>###LINK###"
+
+#: admin/views/options.php:189
+msgid "This setting only affects forums that require approval for new topics."
+msgstr "يؤثر هذا الإعداد فقط على المنتديات التي تتطلب الموافقة على المواضيع الجديدة."
+
+#: admin/tables/admin-structure-table.php:78 admin/views/structure.php:115
+msgid "Approval"
+msgstr "موافقة"
+
+#: includes/forum-spoilers.php:29
+msgid "Sorry, only logged-in users can see spoilers."
+msgstr "عذرًا، فقط الأعضاء المسجلين دخولهم بإمكانهم مشاهدة المحتوى الخاص."
+
+#: includes/forum-spoilers.php:24
+msgid "Spoiler"
+msgstr "محتوى خاص"
+
+#: admin/views/options.php:827
+msgid "Hide spoilers from logged-out users"
+msgstr "إخفاء المحتوى الخاص عن الأعضاء المسجلين خروجهم"
+
+#: admin/views/options.php:746
+msgid "Days of activity to show:"
+msgstr "أيام النشاط المُراد عرضها:"
+
+#: admin/views/options.php:510
+msgid "A comma-separated list of mail-addresses which can receive administrative notifications (new reports, unapproved topics, and more)."
+msgstr "قائمة بعناوين البريد الإلكتروني مفصولة بفواصل والتي يمكنها تلقي إشعارات الإدارة (إبلاغات جديدة، مواضيع لم يتم الموافقة عليها، والمزيد)."
+
+#: includes/forum-activity.php:27
+msgid "Activity in the last day."
+msgid_plural "Activity in the last %s days."
+msgstr[0] "النشاط في آخر %s يوم."
+msgstr[1] "النشاط في آخر %s يوم."
+msgstr[2] "النشاط في آخر %s من الأيام."
+msgstr[3] "النشاط في آخر %s أيام."
+msgstr[4] "النشاط في آخر %s يوم."
+msgstr[5] "النشاط في آخر %s يوم."
+
+#: admin/views/options.php:509
+msgid "Receivers of administrative notifications:"
+msgstr "المُتلقِّين للإشعارات الإدارية:"
+
+#: includes/forum.php:550
+msgid "Sorry, only logged-in users can access the forum."
+msgstr "عذرًا، فقط الأعضاء المسجلين دخولهم بإمكانهم الوصول للمنتدى."
+
+#: admin/tables/admin-ads-table.php:81
+msgid "Locations:"
+msgstr "المواقع:"
+
+#: admin/tables/admin-ads-table.php:72
+msgid "Edit Ad"
+msgstr "تعديل الإعلان"
+
+#: admin/tables/admin-ads-table.php:70
+msgid "Delete Ad"
+msgstr "حذف الإعلان"
+
+#: admin/tables/admin-ads-table.php:40
+msgid "Inactive"
+msgstr "غير فعّال"
+
+#: admin/tables/admin-ads-table.php:38
+msgid "Active"
+msgstr "فعّال"
+
+#: admin/views/ads.php:77 admin/views/ads.php:79
+msgid "New Ad"
+msgstr "إعلان جديد"
+
+#: admin/views/ads.php:53
+msgid "Are you sure you want to delete this ad?"
+msgstr "هل تريد بالتأكيد حذف هذا الإعلان؟"
+
+#: admin/views/ads.php:31
+msgid "Location:"
+msgstr "الموقع:"
+
+#: admin/views/ads.php:23
+msgid "Code:"
+msgstr "الكود:"
+
+#: admin/views/appearance.php:88
+msgid "Custom CSS:"
+msgstr "تنسيقات (CSS) مُخصصة:"
+
+#: admin/views/options.php:764
+msgid "Enable ads"
+msgstr "تمكين الإعلانات"
+
+#: admin/admin.php:87 admin/admin.php:223 admin/views/ads.php:5
+#: admin/views/ads.php:66
+msgid "Ads"
+msgstr "الإعلانات"
+
+#: admin/views/ads.php:6
+msgid "Ads updated."
+msgstr "تم تحديث الإعلانات."
+
+#: admin/views/options.php:780
+msgid "Ad frequency for posts:"
+msgstr "عدد مرات تكرار الإعلان للمشاركات:"
+
+#: admin/views/options.php:776
+msgid "Ad frequency for topics:"
+msgstr "عدد مرات تكرار الإعلان للمواضيع:"
+
+#: admin/views/options.php:772
+msgid "Ad frequency for forums:"
+msgstr "عدد مرات تكرار الإعلان للمنتديات:"
+
+#: admin/views/options.php:768
+msgid "Ad frequency for categories:"
+msgstr "عدد مرات تكرار الإعلان للتصنيفات:"
+
+#: admin/views/options.php:158
+msgid "Hide posts from logged-out users"
+msgstr "إخفاء المشاركات عن الأعضاء المسجلين خروجهم"
+
+#: admin/views/options.php:152
+msgid "Hide forum from logged-out users"
+msgstr "إخفاء المنتدى عن الأعضاء المسجلين خروجهم"
+
+#: admin/views/options.php:159
+msgid "Guests can see topics but need to log in to access the posts they contain."
+msgstr "يمكن للزوار مشاهدة المواضيع ولكنهم بحاجة إلى تسجيل الدخول للوصول إلى المشاركات التي بداخلها."
+
+#: admin/views/ads.php:27
+msgid "Active:"
+msgstr "فعّال:"
+
+#: includes/forum-ads.php:20
+msgid "Top"
+msgstr "الأعلى"
+
+#: includes/forum-ads.php:21
+msgid "Header"
+msgstr "الترويسة"
+
+#: includes/forum-ads.php:24
+msgid "Topic"
+msgstr "الموضوع"
+
+#: includes/forum-ads.php:25
+msgid "Post"
+msgstr "المشاركة"
+
+#: includes/forum-ads.php:26
+msgid "Bottom"
+msgstr "الأسفل"
+
+#: widgets/widget-recent-posts.php:185
+msgid "Group posts by topic"
+msgstr "جمع المشاركات حسب الموضوع"
+
+#: includes/forum-usergroups.php:416
+msgid "Forum Usergroups"
+msgstr "مجموعات أعضاء المنتدى"
+
+#: includes/forum.php:288
+msgid "New topic: ###TITLE###"
+msgstr "موضوع جديد: ###TITLE###"
+
+#: includes/forum.php:300
+msgid "Hello ###USERNAME###,<br><br>You have been mentioned in a forum-post.<br><br>Topic:<br>###TITLE###<br><br>Author:<br>###AUTHOR###<br><br>Text:<br>###CONTENT###<br><br>Link:<br>###LINK###"
+msgstr "مرحبا ###USERNAME###،<br><br>لقد تمت الإشارة إليك في مشاركة.<br><br>الموضوع:<br>###TITLE###<br><br>الكاتب:<br>###AUTHOR###<br><br>النص:<br>###CONTENT###<br><br>الرابط:<br>###LINK###"
+
+#: includes/forum.php:1718
+msgid "Forum Navigation"
+msgstr "التنقل في المنتدى"
+
+#: includes/forum.php:292
+msgid "Hello ###USERNAME###,<br><br>You received this message because there is a new forum-topic.<br><br>Topic:<br>###TITLE###<br><br>Author:<br>###AUTHOR###<br><br>Text:<br>###CONTENT###<br><br>Link:<br>###LINK###<br><br>If you dont want to receive these mails anymore you can unsubscribe via the subscription-area. Please dont reply to this mail!"
+msgstr "مرحبا ###USERNAME###،<br><br>لقد تلقيت هذه الرسالة لأن هناك موضوع جديد.<br><br>الموضوع:<br>###TITLE###<br><br>الكاتب:<br>###AUTHOR###<br><br>النص:<br>###CONTENT###<br><br>الرابط:<br>###LINK###<br><br>إذا كنت لا ترغب في تلقي رسائل البريد الإلكتروني هذه بعد الآن فيمكنك إلغاء الاشتراك عبر منطقة الاشتراك. من فضلك لا تقم بالرد على هذا البريد!"
+
+#: includes/forum.php:284
+msgid "Hello ###USERNAME###,<br><br>You received this message because there is a new reply in a forum-topic you have subscribed to.<br><br>Topic:<br>###TITLE###<br><br>Author:<br>###AUTHOR###<br><br>Reply:<br>###CONTENT###<br><br>Link:<br>###LINK###<br><br>If you dont want to receive these mails anymore you can unsubscribe via the subscription-area. Please dont reply to this mail!"
+msgstr "مرحبا ###USERNAME###،<br><br>لقد تلقيت هذه الرسالة نظرًا لوجود إجابة جديدة في موضوع قمت بالاشتراك به.<br><br>الموضوع:<br>###TITLE###<br><br>الكاتب:<br>###AUTHOR###<br><br>الإجابة:<br>###CONTENT###<br><br>الرابط:<br>###LINK###<br><br>إذا كنت لا ترغب في تلقي رسائل البريد الإلكتروني هذه بعد الآن فيمكنك إلغاء الاشتراك عبر منطقة الاشتراك. من فضلك لا تقم بالرد على هذا البريد!"
+
+#: includes/forum-memberslist.php:91 includes/forum-memberslist.php:101
+msgid "Hide Filters"
+msgstr "إخفاء عوامل التصفية"
+
+#: includes/forum-unread.php:271
+msgid "There are no unread topics."
+msgstr "لا توجد مواضيع غير مقروءة."
+
+#: includes/forum-unread.php:196
+msgid "Show Unread Topics"
+msgstr "إظهار المواضيع الغير مقروءة"
+
+#: includes/forum-unread.php:83 includes/forum.php:700
+msgid "Unread Topics"
+msgstr "المواضيع الغير مقروءة"
+
+#: includes/forum-reports.php:34
+msgid "Click to report post."
+msgstr "اضغط للإبلاغ عن المشاركة."
+
+#: includes/forum-reactions.php:21
+msgid "Click for thumbs up."
+msgstr "انقر لإبداء إعجاب."
+
+#: includes/forum-reactions.php:16
+msgid "Click for thumbs down."
+msgstr "انقر لإبداء عدم إعجاب."
+
+#: includes/forum-memberslist.php:195
+msgid "No users found!"
+msgstr "لم يتم العثور على أعضاء!"
+
+#: admin/views/options.php:604 includes/forum-memberslist.php:130
+#: includes/forum-permissions.php:590
+msgid "Administrators"
+msgstr "الإداريين"
+
+#: admin/views/options.php:600 includes/forum-memberslist.php:121
+#: includes/forum-permissions.php:584
+msgid "Moderators"
+msgstr "المشرفين"
+
+#: admin/views/options.php:92
+msgid "Dont create topics"
+msgstr "لاتنشئ مواضيع جديدة"
+
+#: admin/views/appearance.php:64
+msgid "Link color:"
+msgstr "لون الرابط:"
+
+#: includes/forum-memberslist.php:86 includes/forum-memberslist.php:101
+msgid "Show Filters"
+msgstr "إظهار عوامل التصفية"
+
+#: admin/views/appearance.php:72
+msgid "Background color (Second):"
+msgstr "لون الخلفية (الثاني):"
+
+#: admin/views/appearance.php:68
+msgid "Background color (First):"
+msgstr "لون الخلفية (الأول):"
+
+#: admin/views/options.php:540
+msgid "New topic notification message:"
+msgstr "رسالة إشعار موضوع جديد:"
+
+#: admin/views/options.php:536
+msgid "New topic notification subject:"
+msgstr "عنوان إشعار موضوع جديد:"
+
+#: admin/views/options.php:531
+msgid "New post notification message:"
+msgstr "رسالة إشعار مشاركة جديدة:"
+
+#: admin/views/options.php:527
+msgid "New post notification subject:"
+msgstr "عنوان إشعار مشاركة جديدة:"
+
+#: includes/forum-breadcrumbs.php:95
+msgid "Forum breadcrumbs - You are here:"
+msgstr "مسارات تنقل المنتدى - أنت هنا:"
+
+#: admin/views/options.php:566
+msgid "Mentioning notification message:"
+msgstr "رسالة إشعار بخصوص الإشارة:"
+
+#: admin/views/options.php:562
+msgid "Mentioning notification subject:"
+msgstr "عنوان إشعار بخصوص الإشارة:"
+
+#: includes/forum-reports.php:81
+msgid "Hello ###USERNAME###,<br><br>There is a new report.<br><br>Topic:<br>###TITLE###<br><br>Post:<br>###CONTENT###<br><br>Post Author:<br>###AUTHOR###<br><br>Reporter:<br>###REPORTER###<br><br>Link:<br>###LINK###"
+msgstr "مرحبا ###USERNAME###،<br><br>هناك إبلاغ جديد.<br><br>الموضوع:<br>###TITLE###<br><br>المشاركة:<br>###CONTENT###<br><br>كاتب المشاركة:<br>###AUTHOR###<br><br>البلاغ مقدّم من:<br>###REPORTER###<br><br>الرابط:<br>###LINK###"
+
+#: includes/forum-online.php:207
+msgid "Seen %s ago"
+msgstr " قبل %s"
+
+#: includes/forum-memberslist.php:103
+msgid "Roles:"
+msgstr "الرتب:"
+
+#: includes/forum-permissions.php:573
+msgid "Forum Roles:"
+msgstr "رتب المنتدى:"
+
+#: includes/forum-permissions.php:628 includes/forum-permissions.php:629
+#: includes/forum-permissions.php:630 includes/forum-permissions.php:631
+msgid "Assign forum role:"
+msgstr "تعيين رتبة المنتدى:"
+
+#: includes/forum-permissions.php:675
+msgid "Forum role assigned."
+msgstr "تم تعيين رتبة المنتدى."
+
+#: admin/views/appearance.php:60
+msgid "Text color light:"
+msgstr "لون النص الفاتح:"
+
+#: includes/forum.php:1613
+msgid "Unsticky"
+msgstr "إلغاء التثبيت"
+
+#: includes/forum-usergroups.php:645
+msgid "Forum Usergroups:"
+msgstr "مجموعات أعضاء المنتدى:"
+
+#: includes/forum-profile.php:335
+msgid "Ban User"
+msgstr "حظر العضو"
+
+#: includes/forum-profile.php:331
+msgid "Unban User"
+msgstr "إلغاء حظر العضو"
+
+#: admin/views/options.php:53
+msgid "Forum title:"
+msgstr "عنوان المنتدى:"
+
+#: admin/admin.php:555
+msgid "Documentation"
+msgstr "التوثيق"
+
+#: includes/forum-unread.php:260 includes/forum-approval.php:220
+#: includes/forum.php:970
+msgid "In"
+msgstr "في"
+
+#: includes/forum-feed.php:40 includes/forum-feed.php:45
+msgid "RSS Feed"
+msgstr "خلاصة RSS"
+
+#: admin/views/options.php:231
+msgid "Enable RSS Feeds"
+msgstr "تمكين خلاصات RSS"
+
+#: admin/views/options.php:711
+msgid "Enable signatures"
+msgstr "تمكين التواقيع"
+
+#: admin/admin.php:79
+msgid "Signatures"
+msgstr "التواقيع"
+
+#: admin/views/options.php:235
+msgid "Count topic views"
+msgstr "احتساب مشاهدات الموضوع"
+
+#: admin/admin.php:161
+msgid "HTML tags are not allowed in signatures."
+msgstr "وسوم HTML غير مسموح بها في التواقيع."
+
+#: admin/admin.php:157
+msgid "You can use the following HTML tags in signatures:"
+msgstr "يمكنك استخدام وسوم HTML التالية في التواقيع:"
+
+#: admin/views/options.php:724
+msgid "Allow HTML tags in signatures"
+msgstr "السماح بوسوم HTML في التواقيع"
+
+#: admin/views/options.php:728
+msgid "Allowed HTML tags:"
+msgstr "وسوم HTML المسموح بها:"
+
+#: includes/forum-profile.php:181
+msgid "No posts made by this user."
+msgstr "لا توجد مشاركات بواسطة هذا العضو."
+
+#: includes/forum-profile.php:202
+msgid "In:"
+msgstr "في:"
+
+#: includes/forum-profile.php:41 includes/forum-profile.php:66
+#: includes/forum-profile.php:127 includes/forum-profile.php:129
+msgid "Post History"
+msgstr "سجل المشاركات"
+
+#: admin/views/appearance.php:52
+msgid "Accent color:"
+msgstr "لون الاختصارات:"
+
+#: includes/forum-activity.php:48
+msgid "Yesterday"
+msgstr "أمس"
+
+#: includes/forum-activity.php:46
+msgid "Today"
+msgstr "اليوم"
+
+#: admin/views/usergroups.php:44
+msgid "Add new users automatically:"
+msgstr "إضافة أعضاء جدد تلقائيا:"
+
+#: admin/tables/admin-usergroups-table.php:72
+msgid "No"
+msgstr "لا"
+
+#: admin/tables/admin-usergroups-table.php:70
+msgid "Yes"
+msgstr "نعم"
+
+#: admin/tables/admin-usergroups-table.php:54
+msgid "%s User"
+msgid_plural "%s Users"
+msgstr[0] "%s عضو"
+msgstr[1] "%s عضو"
+msgstr[2] "%s من الأعضاء"
+msgstr[3] "%s أعضاء"
+msgstr[4] "%s عضو"
+msgstr[5] "%s عضو"
+
+#: admin/admin.php:141
+msgid "Notify me when I get mentioned"
+msgstr "قم بتنبيهي عندما يتم الإشارة إليّ"
+
+#: admin/views/options.php:286
+msgid "Enable SEO-friendly URLs"
+msgstr "تمكين الروابط الصديقة لمحركات البحث"
+
+#: admin/tables/admin-usergroups-table.php:89
+msgid "Automatically Add:"
+msgstr "إضافة تلقائية:"
+
+#: admin/tables/admin-structure-table.php:57
+msgid "No description yet ..."
+msgstr "لا يوجد وصف حتى الآن ..."
+
+#: admin/admin.php:83 includes/forum-activity.php:20
+#: includes/forum-activity.php:128 includes/forum.php:698
+msgid "Activity"
+msgstr "النشاط"
+
+#: includes/forum-activity.php:91
+msgid "No activity yet!"
+msgstr "لا يوجد أي نشاط حتى الآن!"
+
+#: admin/tables/admin-usergroups-table.php:62
+msgid "Hidden"
+msgstr "مخفي"
+
+#: admin/views/usergroups.php:40
+msgid "Hide usergroup:"
+msgstr "إخفاء مجموعة العضو:"
+
+#: includes/forum-notifications.php:567
+msgid "Notify about new posts in:"
+msgstr "قم بتنبيهي بوجود مشاركات جديدة في:"
+
+#: admin/tables/admin-usergroups-table.php:64
+msgid "Visible"
+msgstr "مرئي"
+
+#: includes/forum-activity.php:75
+msgid "New topic %s created by %s."
+msgstr "موضوع جديد %s بواسطة %s."
+
+#: admin/tables/admin-usergroups-table.php:88
+msgid "Visibility:"
+msgstr "الظهور:"
+
+#: includes/forum-notifications.php:635
+msgid "You get notified about <b>all</b> new posts."
+msgstr "يتم إشعارك بخصوص <b>كافة</b> المشاركات الجديدة."
+
+#: includes/forum-notifications.php:633
+msgid "You get notified about <b>all</b> new topics."
+msgstr "يتم إشعارك بخصوص <b>كافة</b> المواضيع الجديدة."
+
+#: includes/forum-notifications.php:559
+msgid "You get notified about all new topics and posts."
+msgstr "يتم إشعارك بخصوص كافة المواضيع والمشاركات الجديدة."
+
+#: includes/forum-notifications.php:553
+msgid "You get notified about all new topics."
+msgstr "يتم إشعارك بخصوص كافة المواضيع الجديدة."
+
+#: includes/forum-notifications.php:547
+msgid "You get notified about activity in forums and topics you are subscribed to."
+msgstr "يتم إشعارك بخصوص الأنشطة في المنتديات والمواضيع التي اشتركت بها."
+
+#: admin/views/options.php:424
+msgid "Time limitation for editing posts (in minutes):"
+msgstr "الحد الزمني لتعديل المشاركات (بالدقائق):"
+
+#: admin/views/options.php:742
+msgid "Enable Activity Feed"
+msgstr "تمكين تغذية النشاط"
+
+#: includes/forum.php:1714
+msgid "Menu"
+msgstr "القائمة"
+
+#: includes/forum-notifications.php:643
+msgid "Unsubscribe"
+msgstr "إلغاء الاشتراك"
+
+#: includes/forum-notifications.php:557
+msgid "New Topics & Posts"
+msgstr "مواضيع ومشاركات جديدة"
+
+#: includes/forum-notifications.php:551
+msgid "New Topics"
+msgstr "مواضيع جديدة"
+
+#: includes/forum-notifications.php:545
+msgid "Individual Subscriptions"
+msgstr "اشتراكات فردية"
+
+#: includes/forum-notifications.php:538
+msgid "Subscription Settings"
+msgstr "إعدادات الاشتراك"
+
+#: includes/forum-notifications.php:76
+msgid "You are subscribed to <b>all</b> forums."
+msgstr "لقد اشتركت في <b>كل</b> المنتديات."
+
+#: includes/forum-notifications.php:52 includes/forum-notifications.php:105
+msgid "You are subscribed to <b>all</b> topics."
+msgstr "لقد اشتركت في <b>كل</b> المواضيع."
+
+#: admin/views/options.php:489
+msgid "Show category name in breadcrumbs"
+msgstr "إظهار اسم التصنيف في مسارات التنقل"
+
+#: admin/admin.php:51
+msgid "Breadcrumbs"
+msgstr "مسارات التنقل"
+
+#: includes/forum-profile.php:261
+msgid "Last seen:"
+msgstr "آخر ظهور:"
+
+#: includes/forum-online.php:197
+msgid "Currently online"
+msgstr "متصل الآن"
+
+#: admin/views/options.php:554
+msgid "Enable Mentioning"
+msgstr "تمكين الإشارات"
+
+#: includes/forum-database.php:340
+msgid "First Forum"
+msgstr "المنتدى الأول"
+
+#: includes/forum.php:296
+msgid "You have been mentioned!"
+msgstr "لقد تمت الإشارة إليك!"
+
+#: admin/views/structure.php:95
+msgid "Parent:"
+msgstr "الأب:"
+
+#: includes/forum-database.php:341
+msgid "My first forum."
+msgstr "منتداي الأول."
+
+#: includes/forum-database.php:332
+msgid "Example Category"
+msgstr "مثال على تصنيف"
+
+#: includes/forum-online.php:175
+msgid "%s Guest"
+msgid_plural "%s Guests"
+msgstr[0] "%s زائر"
+msgstr[1] "%s زائر"
+msgstr[2] "%s من الزوار"
+msgstr[3] "%s زوار"
+msgstr[4] "%s زائر"
+msgstr[5] "%s زائر"
+
+#: widgets/widget-search.php:18 widgets/widget-search.php:48
+msgid "Forum Search"
+msgstr "بحث المنتدى"
+
+#: includes/forum-reports.php:80
+msgid "New report"
+msgstr "إبلاغ جديد"
+
+#: includes/forum-reports.php:38
+msgid "You reported this post."
+msgstr "لقد أبلغت عن هذه المشاركة بالفعل."
+
+#: includes/forum-reports.php:29
+msgid "Are you sure that you want to report this post?"
+msgstr "هل تريد بالتأكيد الإبلاغ عن هذه المشاركة؟"
+
+#: includes/forum-profile.php:322
+msgid "Edit Profile"
+msgstr "تعديل الملف الشخصي"
+
+#: includes/forum-appearance.php:70
+msgid "Default Theme"
+msgstr "القالب الافتراضي"
+
+#: admin/views/options.php:876
+msgid "Save Settings"
+msgstr "حفظ الإعدادات"
+
+#: admin/views/options.php:693
+msgid "Enable reports"
+msgstr "تمكين الإبلاغات"
+
+#: admin/views/options.php:655
+msgid "Who can upload files:"
+msgstr "الذين بإمكانهم رفع الملفات:"
+
+#: admin/views/options.php:643
+msgid "Allow uploads"
+msgstr "السماح برفع الملفات"
+
+#: admin/admin.php:228 admin/views/options.php:8
+msgid "Settings"
+msgstr "الإعدادات"
+
+#: admin/views/options.php:9
+msgid "Settings updated."
+msgstr "تم تحديث الإعدادات."
+
+#: admin/views/appearance.php:44
+msgid "Font size:"
+msgstr "حجم الخط:"
+
+#: admin/views/appearance.php:40
+msgid "Font:"
+msgstr "الخط:"
+
+#: includes/forum-reports.php:32
+msgid "Report Post"
+msgstr "الإبلاغ عن المشاركة"
+
+#: admin/views/appearance.php:94
+msgid "Save Appearance"
+msgstr "حفظ المظهر"
+
+#: admin/views/appearance.php:9
+msgid "Appearance updated."
+msgstr "تم تحديث المظهر."
+
+#: includes/forum-reports.php:247
+msgid "Delete Report"
+msgstr "حذف البلاغ"
+
+#: admin/views/options.php:223
+msgid "Enable reactions"
+msgstr "تمكين ردود الفعل"
+
+#: admin/admin.php:75 includes/forum-reports.php:18 includes/forum.php:704
+msgid "Reports"
+msgstr "الإبلاغات"
+
+#: widgets/widget-search.php:8
+msgid "Asgaros Forum: Search"
+msgstr "منتدى Asgaros: البحث"
+
+#: widgets/widget-search.php:7
+msgid "A search form for Asgaros Forum."
+msgstr "نموذج بحث لمنتدى Asgaros."
+
+#: admin/views/appearance.php:76
+msgid "Border color:"
+msgstr "لون الحدود:"
+
+#: includes/forum-memberslist.php:29 includes/forum-memberslist.php:68
+#: includes/forum.php:696
+msgid "Members"
+msgstr "الأعضاء"
+
+#: admin/views/options.php:588
+msgid "Members per page:"
+msgstr "الأعضاء في كل صفحة:"
+
+#: admin/admin.php:63
+msgid "Members List"
+msgstr "قائمة الأعضاء"
+
+#: admin/views/options.php:580
+msgid "Enable members list"
+msgstr "تمكين قائمة الأعضاء"
+
+#: admin/views/options.php:584
+msgid "Show members list to logged-in users only"
+msgstr "إظهار قائمة الأعضاء للأعضاء المسجلين دخولهم فقط"
+
+#: admin/views/usergroups.php:92
+msgid "Deleting this category will also permanently delete all usergroups inside it. Are you sure you want to delete this category?"
+msgstr "سيؤدي حذف هذا التصنيف أيضًا إلى حذف جميع مجموعات الأعضاء الموجودة فيها نهائيًا. هل أنت متأكد بأنك تريد حذف هذا التصنيف؟"
+
+#: includes/forum-database.php:284
+msgid "Example Usergroup"
+msgstr "مثال على مجموعة أعضاء"
+
+#: includes/forum-database.php:264
+msgid "Custom Usergroups"
+msgstr "مجموعات أعضاء مخصصة"
+
+#: admin/views/options.php:87
+msgid "Create topics for new blog posts in the following forum:"
+msgstr "إنشاء مواضيع لمشاركات المدونة الجديدة في المنتدى التالي:"
+
+#: includes/forum-profile.php:285
+msgid "Signature:"
+msgstr "التوقيع:"
+
+#: admin/admin.php:560
+msgid "Donate"
+msgstr "تبرع"
+
+#: admin/admin.php:550
+msgid "Official Support Forum"
+msgstr "منتدى الدعم الرسمي"
+
+#: includes/forum-profile.php:275
+msgid "Biographical Info:"
+msgstr "السيرة الذاتية:"
+
+#: admin/views/options.php:167
+msgid "Show login button"
+msgstr "إظهار زر تسجيل الدخول"
+
+#: admin/views/options.php:177
+msgid "Show register button"
+msgstr "إظهار زر التسجيل"
+
+#: admin/views/options.php:172
+msgid "Show logout button"
+msgstr "إظهار زر تسجيل الخروج"
+
+#: includes/forum.php:1815
+msgid "Logout"
+msgstr "تسجيل الخروج"
+
+#: includes/forum-profile.php:216 includes/forum-profile.php:341
+msgid "This user does not exist."
+msgstr "هذا المستخدم غير موجود"
+
+#: includes/forum-profile.php:306
+msgid "Replies Created"
+msgstr "الردود المنشأة:"
+
+#: includes/forum-profile.php:301
+msgid "Topics Started"
+msgstr "المواضيع المنشأة:"
+
+#: includes/forum-profile.php:268
+msgid "Member Since:"
+msgstr "عضو منذ:"
+
+#: includes/forum-profile.php:35 includes/forum-profile.php:60
+#: includes/forum-profile.php:120 includes/forum-profile.php:122
+#: includes/forum-profile.php:405
+msgid "Profile"
+msgstr "الملف الشخصي"
+
+#: admin/admin.php:67
+msgid "Profiles"
+msgstr " الملفات الشخصية"
+
+#: includes/forum-unread.php:187
+msgid "Nothing new"
+msgstr "لا شيء جديد"
+
+#: includes/forum-profile.php:253
+msgid "Website:"
+msgstr "الموقع الإلكتروني:"
+
+#: admin/admin.php:127 includes/forum-permissions.php:106
+#: includes/forum-permissions.php:629
+msgid "Moderator"
+msgstr "مشرف "
+
+#: includes/forum-profile.php:235
+msgid "First Name:"
+msgstr "الاسم الأول:"
+
+#: admin/admin.php:126 includes/forum-notifications.php:444
+#: includes/forum-permissions.php:110 includes/forum-permissions.php:628
+msgid "User"
+msgstr "عضو"
+
+#: admin/views/options.php:625
+msgid "Enable profiles"
+msgstr "تمكين الملفات الشخصية"
+
+#: admin/views/options.php:629
+msgid "Show profiles to logged-in users only"
+msgstr "إظهار الملفات الشخصية للأعضاء المسجلين دخولهم فقط"
+
+#: includes/forum-profile.php:172 includes/forum-profile.php:227
+msgid "You need to login to have access to profiles."
+msgstr "يجب عليك تسجيل الدخول لتتمكن من الوصول إلى الملفات الشخصية."
+
+#: admin/admin.php:122 includes/forum-permissions.php:560
+msgid "Forum Role"
+msgstr "رتبة المنتدى"
+
+#: admin/admin.php:128 includes/forum-permissions.php:104
+#: includes/forum-permissions.php:630
+msgid "Administrator"
+msgstr "مدير"
+
+#: admin/views/options.php:142
+msgid "Show author posts counter"
+msgstr "إظهار عدّاد مشاركات الكاتب"
+
+#: includes/forum-notifications.php:20 includes/forum-notifications.php:505
+#: includes/forum.php:690
+msgid "Subscriptions"
+msgstr "الاشتراكات"
+
+#: includes/forum-notifications.php:638
+msgid "No subscriptions yet!"
+msgstr "لا توجد اشتركات بعد!"
+
+#: admin/views/options.php:147
+msgid "Show description in forum"
+msgstr "أظهر الوصف في المنتدى"
+
+#: includes/forum.php:1851
+msgid "Register"
+msgstr "التسجيل"
+
+#: admin/views/structure.php:105 admin/views/usergroups.php:35
+msgid "List of available icons."
+msgstr "قائمة الأيقونات المتوفرة."
+
+#: admin/views/structure.php:101 admin/views/usergroups.php:29
+msgid "Icon:"
+msgstr "الأيقونة:"
+
+#: includes/forum-content.php:137
+msgid "You are not allowed to upload files with that file extension."
+msgstr "غير مسموح لك برفع ملفات بهذا الامتداد"
+
+#: admin/views/options.php:500
+msgid "Sender name:"
+msgstr "اسم المرسل:"
+
+#: admin/views/options.php:504
+msgid "Sender mail:"
+msgstr "بريد المرسل:"
+
+#: includes/forum-content.php:143
+msgid "You are not allowed to upload files with that file size."
+msgstr "غير مسموح لك برفع ملفات بهذا الحجم."
+
+#: includes/forum-usergroups.php:703
+msgid "Remove from"
+msgstr "إزالة من"
+
+#: includes/views/post-element.php:136
+msgid "Last edited on %s by %s"
+msgstr "آخر تعديل %s بواسطة %s"
+
+#: includes/forum-online.php:143
+msgid "Newest Member:"
+msgstr "أحدث عضو:"
+
+#: includes/forum-usergroups.php:699
+msgid "Add to"
+msgstr "إضافة إلى"
+
+#: admin/tables/admin-usergroups-table.php:80
+msgid "Edit Usergroup"
+msgstr "تعديل مجموعة العضو"
+
+#: admin/tables/admin-usergroups-table.php:78
+msgid "Delete Usergroup"
+msgstr "حذف مجموعة العضو"
+
+#: includes/forum-online.php:150
+msgid "Currently Online:"
+msgstr "المتصلين الآن:"
+
+#: admin/views/usergroups.php:24
+msgid "Color:"
+msgstr "اللون:"
+
+#: includes/forum-online.php:180
+msgid "Currently nobody is online."
+msgstr "لا يوجد متصلين حاليا."
+
+#: admin/views/usergroups.php:6
+msgid "Usergroups updated."
+msgstr "تم تحديث مجموعات الأعضاء."
+
+#: admin/admin.php:220 admin/views/usergroups.php:5
+#: includes/forum-usergroups.php:574
+msgid "Usergroups"
+msgstr "مجموعات الأعضاء"
+
+#: includes/forum-profile.php:245 includes/forum-memberslist.php:164
+#: includes/forum-usergroups.php:469 includes/forum-usergroups.php:486
+msgid "Usergroups:"
+msgstr "مجموعات العضو:"
+
+#: admin/views/usergroups.php:136 admin/views/usergroups.php:138
+msgid "Add Usergroup"
+msgstr "إضافة مجموعة عضو"
+
+#: admin/views/usergroups.php:60
+msgid "Are you sure you want to delete this usergroup?"
+msgstr "هل أنت متأكد من رغبتك في حذف مجموعة العضو هذه؟"
+
+#: includes/forum-usergroups.php:499
+msgid "When usergroups are selected, only users of the selected usergroups will have access to the category."
+msgstr "عند تحديد مجموعات أعضاء؛ سيكون فقط لأعضاء هذه المجموعات المحددة حق الوصول إلى التصنيف."
+
+#: includes/forum-usergroups.php:761
+msgid "Usergroups assignments updated."
+msgstr "تم تحديث مهام مجموعات الأعضاء."
+
+#: widgets/widget-recent-topics.php:168 widgets/widget-recent-posts.php:175
+msgid "Show avatars"
+msgstr "إظهار الشعارات"
+
+#: includes/forum.php:390
+msgid "Page"
+msgstr "صفحة"
+
+#: admin/views/structure.php:217 admin/views/structure.php:220
+msgid "Add Forum"
+msgstr "إضافة منتدى"
+
+#: admin/views/structure.php:205 admin/views/usergroups.php:123
+msgid "Delete Category"
+msgstr "حذف تصنيف"
+
+#: admin/views/structure.php:160 admin/views/structure.php:163
+#: admin/views/structure.php:227 admin/views/structure.php:229
+#: admin/views/usergroups.php:102 admin/views/usergroups.php:105
+#: admin/views/usergroups.php:144 admin/views/usergroups.php:146
+msgid "Add Category"
+msgstr "إضافة تصنيف"
+
+#: admin/tables/admin-ads-table.php:80
+#: admin/tables/admin-structure-table.php:106 admin/views/structure.php:110
+msgid "Status:"
+msgstr "الحالة:"
+
+#: admin/tables/admin-structure-table.php:75 admin/views/structure.php:114
+msgid "Closed"
+msgstr "مغلق"
+
+#: admin/tables/admin-structure-table.php:95
+#: admin/tables/admin-structure-table.php:96
+msgid "Add Sub-Forum"
+msgstr "إضافة منتدى فرعي"
+
+#: admin/views/structure.php:136
+msgid "Deleting this category will also permanently delete all forums, sub-forums, topics and posts inside it. Are you sure you want to delete this category?"
+msgstr "سيؤدي حذف هذا التصنيف أيضًا إلى حذف جميع المنتديات والمنتديات الفرعية والمواضيع والمشاركات بداخلها نهائيًا. هل أنت متأكد بأنك تريد حذف هذا التصنيف؟"
+
+#: admin/tables/admin-usergroups-table.php:90
+#: admin/tables/admin-ads-table.php:82
+#: admin/tables/admin-structure-table.php:108
+msgid "Actions:"
+msgstr "الإجراءات:"
+
+#: admin/tables/admin-structure-table.php:85
+#: admin/tables/admin-structure-table.php:86
+msgid "Delete Forum"
+msgstr "حذف المنتدى"
+
+#: admin/admin.php:218 admin/views/structure.php:5
+msgid "Structure"
+msgstr "الهيكل"
+
+#: admin/views/structure.php:6
+msgid "Structure updated."
+msgstr "تم تحديث الهيكل."
+
+#: admin/tables/admin-structure-table.php:72 admin/views/structure.php:113
+msgid "Normal"
+msgstr "عضو"
+
+#: admin/views/options.php:647
+msgid "Show thumbnails"
+msgstr "عرض الصور المصغرة"
+
+#: includes/forum-online.php:128
+msgid "Online"
+msgstr "متصل"
+
+#: admin/views/options.php:239
+msgid "Show who is online"
+msgstr "إظهار المتصلين"
+
+#: admin/views/options.php:485
+msgid "Enable breadcrumbs"
+msgstr "تمكين مسارات التنقل"
+
+#: admin/admin.php:39
+msgid "Features"
+msgstr "الميزات"
+
+#: admin/tables/admin-usergroups-table.php:49
+#: admin/tables/admin-structure-table.php:52 admin/views/options.php:297
+#: admin/views/options.php:309 admin/views/structure.php:187
+msgid "ID"
+msgstr "المعرّف"
+
+#: admin/views/options.php:71
+msgid "Page which contains the [forum]-shortcode."
+msgstr "الصفحة التي تحتوي على الاختصار [forum]."
+
+#: admin/views/options.php:676
+msgid "Maximum file size (in megabyte):"
+msgstr "الحد الأقصى لحجم الملفات (بالميغابايت):"
+
+#: admin/views/options.php:669
+msgid "Maximum files per post:"
+msgstr "الحد الأقصى للملفات لكل مشاركة:"
+
+#: admin/views/options.php:427 admin/views/options.php:444
+#: admin/views/options.php:461 admin/views/options.php:672
+#: admin/views/options.php:679
+msgid "(0 = No limitation)"
+msgstr "(0 = بدون حد)"
+
+#: admin/admin.php:150
+msgid "Signature"
+msgstr "التوقيع"
+
+#: admin/views/options.php:254
+msgid "Show statistics"
+msgstr "إظهار الإحصائيات"
+
+#: admin/views/options.php:596 includes/forum-memberslist.php:112
+#: includes/forum-statistics.php:30 includes/forum-permissions.php:578
+msgid "Users"
+msgstr "الأعضاء"
+
+#: includes/forum-statistics.php:19
+msgid "Statistics"
+msgstr "إحصائيات"
+
+#: includes/forum-notifications.php:80
+msgid "<b>Unsubscribe</b> from this forum."
+msgstr "<b>إلغاء الاشتراك</b> من هذا المنتدى."
+
+#: includes/forum-notifications.php:83
+msgid "<b>Subscribe</b> to this forum."
+msgstr "<b>الاشتراك</b> بهذا المنتدى."
+
+#: includes/views/post-element.php:54
+msgid "Topic Author"
+msgstr "كاتب الموضوع"
+
+#: includes/forum-approval.php:212 includes/forum.php:965
+msgid "By"
+msgstr "بواسطة"
+
+#: includes/forum-search.php:27 includes/forum.php:688
+msgid "Search"
+msgstr "بحث"
+
+#: includes/forum-breadcrumbs.php:87 includes/forum.php:686
+msgid "Move Topic"
+msgstr "نقل الموضوع"
+
+#: integrations/integration-mycred.php:328 includes/forum-editor.php:220
+#: includes/forum-breadcrumbs.php:83 includes/forum.php:684
+#: includes/forum.php:1574
+msgid "New Topic"
+msgstr "موضوع جديد"
+
+#: includes/forum-search.php:68
+msgid "Search results:"
+msgstr "نتائج البحث:"
+
+#: includes/forum.php:907
+msgid "%s Topic"
+msgid_plural "%s Topics"
+msgstr[0] "%s موضوع"
+msgstr[1] "%s موضوع"
+msgstr[2] "%s من المواضيع"
+msgstr[3] "%s مواضيع"
+msgstr[4] "%s موضوع"
+msgstr[5] "%s موضوع"
+
+#: includes/forum-search.php:78
+msgid "No results found for:"
+msgstr "لا توجد نتائج بخصوص:"
+
+#: includes/forum-search.php:69 includes/forum.php:1011
+#: includes/views/overview.php:14 includes/views/forum.php:33
+msgid "Last post"
+msgstr "آخر مشاركة"
+
+#: includes/forum.php:1629
+msgid "Open"
+msgstr "فتح"
+
+#: includes/forum-statistics.php:23 includes/views/forum.php:32
+msgid "Topics"
+msgstr "المواضيع"
+
+#: includes/forum-search.php:55 widgets/widget-search.php:36
+msgid "Search ..."
+msgstr "البحث .."
+
+#: admin/views/options.php:227
+msgid "Enable search functionality"
+msgstr "تمكين خاصية البحث"
+
+#: admin/views/options.php:66
+msgid "Forum location:"
+msgstr "مكان المنتدى:"
+
+#: widgets/widget-recent-topics.php:20 widgets/widget-search.php:41
+#: widgets/widget-recent-posts.php:20
+msgid "The forum has not been configured correctly."
+msgstr "لم يتم تكوين المنتدى بشكل صحيح."
+
+#: includes/forum.php:1419 widgets/widget-recent-topics.php:29
+#: widgets/widget-recent-topics.php:41 widgets/widget-recent-topics.php:54
+#: widgets/widget-recent-topics.php:68 widgets/widget-recent-posts.php:29
+#: widgets/widget-recent-posts.php:41 widgets/widget-recent-posts.php:54
+#: widgets/widget-recent-posts.php:76
+msgid "No topics yet!"
+msgstr "لا توجد مواضيع حتى الآن!"
+
+#: widgets/widget-recent-topics.php:150
+msgid "Recent forum topics"
+msgstr "أحدث مواضيع المنتدى"
+
+#: widgets/widget-recent-topics.php:12
+msgid "Asgaros Forum: Recent Topics"
+msgstr "منتدى Asgaros: أحدث المواضيع"
+
+#: widgets/widget-recent-topics.php:11
+msgid "Shows recent topics in Asgaros Forum."
+msgstr "يُظهر أحدث المواضيع في منتدى Asgaros."
+
+#: includes/forum-notifications.php:578
+msgid "Notify about new topics in:"
+msgstr "قم بتنبيهي بوجود مواضيع جديدة في:"
+
+#: admin/views/options.php:137
+msgid "Highlight topic authors"
+msgstr "تمييز كُتاب المواضيع"
+
+#: includes/views/overview.php:19
+msgid "In this category are no forums yet!"
+msgstr "لا توجد منتديات في هذا التصنيف!"
+
+#: includes/forum.php:1293 includes/forum.php:1312
+msgid "Deleted user"
+msgstr "عضو محذوف"
+
+#: includes/forum.php:1296 includes/forum.php:1318
+msgid "Guest"
+msgstr "زائر"
+
+#: admin/views/options.php:258
+msgid "Allow guest postings"
+msgstr "السماح بمشاركات الزوار"
+
+#: admin/views/options.php:651
+msgid "Show uploaded files to logged-in users only"
+msgstr "إظهار الملفات المرفوعة للأعضاء المسجلين دخولهم فقط"
+
+#: admin/views/options.php:122
+msgid "Allow shortcodes in posts"
+msgstr "السماح بالرموز القصيرة في المشاركات"
+
+#: includes/forum-uploads.php:161
+msgid "You need to login to have access to uploads."
+msgstr "يجب عليك تسجيل الدخول لتتمكن من الوصول إلى الملفات المرفوعة."
+
+#: includes/forum.php:560
+msgid "Sorry, only logged-in users can access this category."
+msgstr "عذرًا، فقط الأعضاء المسجلين دخولهم بإمكانهم الوصول إلى هذا التصنيف."
+
+#: includes/forum-notifications.php:59 includes/forum-notifications.php:108
+msgid "<b>Subscribe</b> to this topic."
+msgstr "<b>الاشتراك</b> بهذا الموضوع."
+
+#: includes/forum-notifications.php:56
+msgid "<b>Unsubscribe</b> from this topic."
+msgstr "<b>إلغاء الاشتراك</b> من هذا الموضوع."
+
+#: admin/admin.php:55
+msgid "Notifications"
+msgstr "الإشعارات"
+
+#: admin/views/structure.php:72 admin/views/structure.php:126
+#: admin/views/usergroups.php:50 admin/views/usergroups.php:82
+#: admin/views/ads.php:43
+msgid "Save"
+msgstr "حفظ"
+
+#: admin/tables/admin-structure-table.php:89
+#: admin/tables/admin-structure-table.php:90
+msgid "Edit Forum"
+msgstr "تعديل المنتدى"
+
+#: admin/tables/admin-structure-table.php:107 admin/views/structure.php:65
+#: admin/views/structure.php:120 admin/views/structure.php:198
+msgid "Order:"
+msgstr "الترتيب:"
+
+#: includes/forum.php:919 includes/forum.php:1010
+msgid "Subforums"
+msgstr "المنتديات الفرعية"
+
+#: includes/forum-content.php:73
+msgid "You are banned!"
+msgstr "أنت محظور!"
+
+#: admin/views/appearance.php:56
+msgid "Text color:"
+msgstr "لون النص:"
+
+#: admin/views/appearance.php:48
+msgid "Forum color:"
+msgstr "لون المنتدى:"
+
+#: admin/admin.php:35
+msgid "General"
+msgstr "عام "
+
+#: admin/views/structure.php:73 admin/views/structure.php:127
+#: admin/views/structure.php:140 admin/views/structure.php:154
+#: admin/views/usergroups.php:51 admin/views/usergroups.php:64
+#: admin/views/usergroups.php:83 admin/views/usergroups.php:96
+#: admin/views/ads.php:44 admin/views/ads.php:57 includes/forum-editor.php:270
+#: includes/forum-editor.php:275
+msgid "Cancel"
+msgstr "إلغاء"
+
+#: admin/admin.php:129 admin/views/options.php:608
+#: includes/forum-memberslist.php:139 includes/views/post-element.php:59
+#: includes/forum-permissions.php:108 includes/forum-permissions.php:596
+#: includes/forum-permissions.php:631
+msgid "Banned"
+msgstr "محظور"
+
+#: admin/admin.php:71
+msgid "Uploads"
+msgstr "الملفات المرفوعة"
+
+#: admin/views/appearance.php:26
+msgid "Theme"
+msgstr "القالب"
+
+#: admin/admin.php:219 admin/views/appearance.php:8
+#: admin/views/appearance.php:19
+msgid "Appearance"
+msgstr "المظهر"
+
+#: admin/views/structure.php:150
+msgid "Deleting this forum will also permanently delete all sub-forums, topics and posts inside it. Are you sure you want to delete this forum?"
+msgstr "سيؤدي حذف هذا المنتدى أيضًا إلى حذف جميع المنتديات الفرعية والمواضيع والمشاركات الموجودة بداخله نهائيًا. هل أنت متأكد بأنك تريد حذف هذا المنتدى؟"
+
+#: admin/views/options.php:665
+msgid "Allowed filetypes:"
+msgstr "أنواع الملفات المسموحة:"
+
+#: includes/forum-memberslist.php:231 includes/forum.php:909
+#: includes/views/post-element.php:49
+msgid "%s Post"
+msgid_plural "%s Posts"
+msgstr[0] "%s مشاركة"
+msgstr[1] "%s مشاركة"
+msgstr[2] "%s من المشاركات"
+msgstr[3] "%s مشاركات"
+msgstr[4] "%s مشاركة"
+msgstr[5] "%s مشاركة"
+
+#: includes/forum.php:988
+msgid "%s View"
+msgid_plural "%s Views"
+msgstr[0] "%s مشاهدة"
+msgstr[1] "%s مشاهدة"
+msgstr[2] "%s من المشاهدات"
+msgstr[3] "%s مشاهدات"
+msgstr[4] "%s مشاهدة"
+msgstr[5] "%s مشاهدة"
+
+#: admin/views/options.php:658 admin/views/structure.php:58
+#: admin/views/structure.php:191
+msgid "Everyone"
+msgstr "كل شخص"
+
+#: admin/views/options.php:659 admin/views/options.php:807
+#: admin/views/structure.php:59 admin/views/structure.php:193
+msgid "Logged in users only"
+msgstr "المستخدمين المتصلين"
+
+#: admin/views/options.php:660 admin/views/options.php:719
+#: admin/views/options.php:808 admin/views/structure.php:60
+#: admin/views/structure.php:195
+msgid "Moderators only"
+msgstr "المشرفين فقط"
+
+#: admin/views/structure.php:55 admin/views/structure.php:189
+msgid "Access:"
+msgstr "الوصول:"
+
+#: admin/views/options.php:132
+msgid "Highlight administrator/moderator names"
+msgstr "تسليط الضوء على أسماء مسؤول/مشرف"
+
+#: admin/views/options.php:182
+msgid "Show edit date"
+msgstr "إظهار تاريخ تحرير"
+
+#: includes/views/post-element.php:138
+msgid "Last edited on %s"
+msgstr "آخر تعديل %s"
+
+#: includes/forum.php:579
+msgid "Sorry, only logged-in users can access this topic."
+msgstr "عذرًا، فقط الأعضاء المسجلون دخولهم بإمكانهم الوصول إلى هذا الموضوع."
+
+#: includes/forum.php:614
+msgid "You need to log in to create posts and topics."
+msgstr "تحتاج لتسجيل الدخول لإنشاء مشاركات أو مواضيع."
+
+#: includes/forum.php:1833
+msgid "Login"
+msgstr "تسجيل الدخول"
+
+#: widgets/widget-recent-topics.php:162 widgets/widget-recent-posts.php:169
+msgid "Number of topics to show:"
+msgstr "عدد المواضيع التي تظهر:"
+
+#: widgets/widget-recent-topics.php:157 widgets/widget-search.php:51
+#: widgets/widget-recent-posts.php:164
+msgid "Title:"
+msgstr "العنوان : "
+
+#: includes/forum-activity.php:43 includes/forum-profile.php:200
+#: includes/forum-unread.php:243 includes/forum-approval.php:216
+#: includes/forum.php:1429 includes/forum.php:1442 includes/forum.php:1469
+#: includes/forum.php:1481 widgets/widget-recent-topics.php:118
+#: widgets/widget-recent-posts.php:124
+msgid "%s ago"
+msgstr "قبل %s"
+
+#: widgets/widget-recent-topics.php:107 widgets/widget-recent-posts.php:113
+msgid "by"
+msgstr "عن طريق"
+
+#: widgets/widget-recent-posts.php:156
+msgid "Recent forum posts"
+msgstr "مشاركات المنتدى الأخيرة"
+
+#: widgets/widget-recent-posts.php:12
+msgid "Asgaros Forum: Recent Posts"
+msgstr "منتدى Asgaros: المشاركات الأخيرة"
+
+#: widgets/widget-recent-posts.php:11
+msgid "Shows recent posts in Asgaros Forum."
+msgstr "تظهر المشاركات الأخيرة في منتدى Asgaros."
+
+#: includes/forum.php:1656 includes/forum.php:1679
+msgid "Are you sure you want to remove this?"
+msgstr "هل انت متأكد من إزالة هذا ؟"
+
+#: includes/forum-unread.php:185
+msgid "New posts"
+msgstr "لا توجد مشاركات جديدة"
+
+#. Plugin Name of the plugin
+#: integrations/integration-mycred.php:20
+msgid "Asgaros Forum"
+msgstr "Asgaros Forum"
+
+#: includes/views/forum.php:58
+msgid "There are no topics yet!"
+msgstr "لا توجد مواضيع بعد!"
+
+#: includes/forum-statistics.php:24
+msgid "Posts"
+msgstr "المشاركات"
+
+#: includes/forum-unread.php:191 includes/forum-unread.php:207
+msgid "Mark All Read"
+msgstr "حدد الكل كمقروء"
+
+#: includes/forum-statistics.php:27
+msgid "Views"
+msgstr "المشاهدات"
+
+#: includes/forum-uploads.php:231
+msgid "Upload Files:"
+msgstr "رفع الملفات"
+
+#: includes/forum-uploads.php:249
+msgid "Add another file ..."
+msgstr "أضف ملف جديد"
+
+#: includes/forum-editor.php:278
+msgid "Submit"
+msgstr "إرسال"
+
+#: includes/forum-editor.php:243
+msgid "Subject:"
+msgstr "الموضوع:"
+
+#: includes/forum.php:2020
+msgid "Sorry, this post does not exist."
+msgstr "آسف، هذا المنصب غير موجود."
+
+#: includes/forum-editor.php:190 includes/forum-content.php:67
+#: includes/forum-content.php:79 includes/forum-content.php:85
+#: includes/forum-content.php:97 includes/forum-content.php:105
+#: includes/forum-content.php:113
+msgid "You are not allowed to do this."
+msgstr "غير مسموح لك للقيام بذلك."
+
+#: includes/forum-content.php:120
+msgid "You must enter a subject."
+msgstr "يجب عليك إدخال موضوع."
+
+#: includes/forum-content.php:131
+msgid "You must enter a message."
+msgstr "يجب عليك إدخال رسالة."
+
+#: includes/forum-editor.php:202 includes/views/post-element.php:96
+msgid "Quote from"
+msgstr "اقتبس من"
+
+#: includes/forum-editor.php:222
+msgid "Post Reply:"
+msgstr "انشر رد :"
+
+#: includes/forum-uploads.php:182 includes/forum-uploads.php:213
+msgid "Uploaded files:"
+msgstr "الملفات المرفوعة:"
+
+#: admin/tables/admin-usergroups-table.php:78
+#: admin/tables/admin-ads-table.php:70 admin/views/structure.php:139
+#: admin/views/structure.php:153 admin/views/usergroups.php:63
+#: admin/views/usergroups.php:95 admin/views/ads.php:56
+#: includes/forum-uploads.php:205 includes/forum.php:1658
+#: includes/forum.php:1681
+msgid "Delete"
+msgstr "حذف"
+
+#: includes/forum-pagination.php:109
+msgid "First"
+msgstr "أول"
+
+#: includes/forum-pagination.php:29 includes/forum-pagination.php:130
+msgid "Last"
+msgstr "السابق"
+
+#: includes/forum.php:1637
+msgid "Close"
+msgstr "إغلاق"
+
+#: includes/forum.php:1542 includes/forum.php:1619
+msgid "Sticky"
+msgstr "مثبت"
+
+#: includes/forum.php:1597
+msgid "Reply"
+msgstr "ردّ"
+
+#: admin/tables/admin-usergroups-table.php:80
+#: admin/tables/admin-ads-table.php:72 includes/forum.php:1689
+msgid "Edit"
+msgstr "تعديل"
+
+#: includes/forum.php:1698
+msgid "Quote"
+msgstr "اقتباس"
+
+#: includes/forum.php:1082
+msgid "You are not allowed to move topics."
+msgstr "غير مسموح لك نقل المواضيع."
+
+#: includes/forum-editor.php:202 includes/views/post-element.php:96
+msgid "on %s"
+msgstr "في  %s"
+
+#: includes/forum-breadcrumbs.php:75 includes/forum.php:682
+msgid "Post Reply"
+msgstr "نشر الرد"
+
+#: includes/views/overview.php:38
+msgid "There are no categories yet!"
+msgstr "لا توجد فئات بعد!"
+
+#: includes/forum.php:2022
+msgid "Sorry, this forum does not exist."
+msgstr "عذراً، لا توجد في هذا المنتدى."
+
+#: includes/forum.php:1039
+msgid "Sorry, but there are no posts."
+msgstr "عذراً، ولكن لا توجد وظائف."
+
+#: includes/forum.php:2021
+msgid "Sorry, this topic does not exist."
+msgstr "عذراً، هذا الموضوع غير موجود."
+
+#: includes/forum.php:1052
+msgid "Move \"<strong>%s</strong>\" to new forum:"
+msgstr "نقل \"<strong>%s</strong>\" إلى منتدى جديد:"
+
+#: includes/forum.php:1078 includes/forum.php:1606
+msgid "Move"
+msgstr "نقل"
+
+#: includes/forum-editor.php:224 includes/forum-breadcrumbs.php:79
+#: includes/forum.php:680
+msgid "Edit Post"
+msgstr "تحرير المشاركة"
+
+#: admin/views/structure.php:207 admin/views/usergroups.php:125
+msgid "Edit Category"
+msgstr "تعديل التصنيف"
+
+#: includes/forum-ads.php:22
+msgid "Category"
+msgstr "التصنيف"
+
+#: admin/views/options.php:77
+msgid "Replies to show per page:"
+msgstr "الردود تظهر في كل صفحة:"
+
+#: admin/views/options.php:82
+msgid "Topics to show per page:"
+msgstr "المواضيع التي تظهر في كل صفحة:"
+
+#: admin/views/structure.php:91
+msgid "Description:"
+msgstr "الوصف:"
+
+#: admin/tables/admin-usergroups-table.php:87
+#: admin/tables/admin-ads-table.php:79
+#: admin/tables/admin-structure-table.php:105 admin/views/structure.php:51
+#: admin/views/structure.php:87 admin/views/usergroups.php:20
+#: admin/views/usergroups.php:76 admin/views/ads.php:19
+msgid "Name:"
+msgstr "الاسم:"
+
+#: admin/admin.php:170 admin/admin.php:217 includes/forum-ads.php:23
+#: includes/forum.php:264 includes/forum.php:1802 includes/forum.php:2176
+msgid "Forum"
+msgstr "المنتدى"
